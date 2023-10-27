@@ -1,0 +1,3923 @@
+ID_Player;born;birth_city;birth_state
+;1918;;
+2;1921;Yorktown;Indiana
+;1924;;
+;1925;;
+5;1927;Hardinsburg;Kentucky
+;1926;;
+7;1921;Arco;Idaho
+8;1924;Philadelphia;Pennsylvania
+9;1927;New Brunswick;New Jersey
+10;1927;East Chicago;Indiana
+11;1925;Kalamazoo;Michigan
+12;1922;Brooklyn;New York
+13;1928;Washington;Oklahoma
+;1925;;
+15;1927;Brooklyn;New York
+16;1923;Zachary;Louisiana
+17;1920;Floydada;Texas
+18;1923;Versailles;Ohio
+19;1930;Midlothian;Illinois
+20;1925;Kearney;New Jersey
+;1926;;
+22;1923;Teaneck;New Jersey
+23;1927;San Francisco;California
+24;1919;Minneapolis;Minnesota
+;1917;;
+;1924;;
+27;1917;Buffalo;New York
+;1920;;
+29;1925;New Orleans;Louisiana
+30;1922;Edge;Texas
+;1920;;
+32;1924;Burgin;Kentucky
+;1923;;
+;1928;;
+35;1924;Miles City;Montana
+36;1925;Coffee County;Tennessee
+37;1923;Luzerne;Pennsylvania
+38;1922;Sterling;Illinois
+;1922;;
+40;1920;Harrisburg;Pennsylvania
+41;1924;Savannah;Georgia
+;1924;;
+;1927;;
+44;1919;Steamboat Springs;Colorado
+45;1926;Union City;New Jersey
+;1922;;
+47;1922;Centralia;Illinois
+48;1917;Kenosha;Wisconsin
+49;1925;Indianapolis;Indiana
+50;1922;New York;New York
+51;1920;San Francisco;California
+52;1929;;
+53;1925;Salt Lake City;Utah
+54;1922;Brooklyn;New York
+55;1921;Birmingham;Kentucky
+56;1922;;
+57;1918;Chicago;Illinois
+58;1927;Roxana;Illinois
+59;1925;Afton;Wyoming
+60;1920;;
+61;1923;;
+62;1921;;
+63;1922;;
+64;1927;;
+65;1927;;
+66;1930;;
+67;1927;Superior;Wisconsin
+68;1923;Greenfield;Ohio
+69;1926;Martins Ferry;Ohio
+70;1925;;
+71;1925;;
+72;1919;Albany;Texas
+73;1918;Medford;Oregon
+74;1919;;
+75;1923;Los Angeles;California
+76;1920;Nacogdoches;Texas
+77;1927;Linden;Tennessee
+78;1927;Linden;Tennessee
+79;1921;;
+80;1924;Huntington;West Virginia
+81;1924;Dallas;Texas
+82;1924;;
+83;1923;Hill City;Minnesota
+84;1922;Brooklyn;New York
+85;1925;;
+86;1925;;
+87;1920;Brooklyn;New York
+88;1925;Ironton;Ohio
+89;1924;;
+90;1920;Minneapolis;Minnesota
+91;1917;New Kensington;Pennsylvania
+92;1920;Gonvick;Minnesota
+93;1921;;
+94;1921;;
+95;1925;;
+96;1928;New York;New York
+97;1923;;
+98;1925;;
+99;1920;Fort Scott;Kansas
+100;1924;Mount Vernon;Illinois
+101;1923;Washington;Indiana
+102;1926;Bottineau;North Dakota
+103;1921;Warsaw;Poland
+104;1920;;
+105;1927;;
+106;1925;;
+107;1922;;
+108;1926;Somerville;Massachusetts
+109;1927;;
+110;1920;Brooklyn;New York
+111;1921;Brooklyn;New York
+112;1925;;
+113;1921;Richmond;Indiana
+114;1923;Brooklyn;New York
+115;1928;St. Louis;Missouri
+116;1923;;
+117;1922;New Jersey;New Jersey
+118;1919;Los Angeles;California
+119;1925;El Mina;Texas
+120;1923;Salt Lake City;Utah
+121;1923;Niagara Falls;New York
+122;1922;;
+123;1926;Huntington;New York
+124;1919;Lowlands;North Carolina
+125;1927;;
+126;1922;;
+127;1922;;
+128;1924;;
+129;1925;;
+130;1924;Joliet;Illinois
+131;1928;Fresno;California
+132;1928;;
+133;1923;;
+134;1921;Ohio;
+135;1925;;
+136;1925;Long Island;New York
+137;1928;Chicago;Illinois
+138;1926;;
+139;1921;Chicago;Illinois
+140;1924;Midway;Kentucky
+141;1927;Macon;Georgia
+142;1921;Virginia;Minnesota
+143;1924;Uniondale;New York
+144;1915;Chicago;Illinois
+145;1928;;
+146;1925;;
+147;1923;San Francisco;California
+148;1923;Beaver Dam;Kentucky
+149;1922;Whiting;Indiana
+150;1927;Yale;Kansas
+151;1921;Bellefontaine;Ohio
+152;1925;Bellefontaine;Ohio
+153;1925;;
+154;1921;Fort Worth;Texas
+155;1924;Yorktown;Indiana
+156;1925;;
+157;1922;;
+158;1926;;
+159;1922;New Orleans;Louisiana
+160;1924;;
+161;1925;Chicago;Illinois
+162;1922;Granite City;Illinois
+163;1922;Oakland;California
+164;1927;;
+165;1923;;
+166;1923;;
+167;1922;Chicago;Illinois
+168;1921;Mt. Juliet;Tennessee
+169;1914;;
+170;1924;Williamstown;Kentucky
+171;1924;Richmond;Kentucky
+172;1925;Fort Wayne;Indiana
+173;1923;Hilo;Hawaii
+174;1923;Charlestown;Missouri
+175;1927;;
+176;1923;Philadelphia;Pennsylvania
+177;1917;Johnstown;Pennsylvania
+178;1921;Bushnell;Nebraska
+179;1924;;
+180;1918;Fort Wayne;Indiana
+181;1927;;
+182;1925;Newark;Ohio
+183;1928;New York;New York
+184;1922;;
+185;1922;St. Paul;Minnesota
+186;1917;Racine;Wisconsin
+187;1922;San Francisco;California
+188;1923;Clemenceau;Arizona
+189;1926;;
+190;1924;McIntosh;Minnesota
+191;1922;Los Angelse;California
+192;1922;Mahanoy City;Pennsylvania
+193;1928;Toledo;Ohio
+194;1924;Delphi;Indiana
+195;1923;Manhattan;Kansas
+196;1913;;
+197;1925;Newark;New Jersey
+198;1918;Golden Valley;North Carolina
+199;1922;Sandwich;Illinois
+200;1920;;
+201;1925;;
+202;1920;Philadelphia;Pennsylvania
+203;1921;;
+204;1923;;
+205;1923;;
+206;1922;Ontario;California
+207;1920;New York;New York
+208;1920;Caldwell;Kentucky
+209;1922;Chicago;Illinois
+210;1922;;
+211;1923;;
+212;1928;Montreal;Canada
+213;1921;Casper;Wyoming
+214;1921;;
+215;1920;Winona;Minnesota
+216;1922;;
+217;1921;Provo;Utah
+218;1927;Covington;Kentucky
+219;1921;Brooklyn;New York
+220;1926;Grand View;Iowa
+221;1926;;
+222;1921;;
+223;1925;Brooklyn;New York
+224;;;
+225;1928;Philadelphia;Pennsylvania
+226;1929;;
+227;1926;;
+228;1924;Plymouth;Pennsylvania
+229;1924;;
+230;1925;Hoboken;New Jersey
+231;1927;;
+232;1922;Little Rock;Arkansas
+233;1926;;
+234;1928;New York;New York
+235;1922;;
+236;1926;;
+237;1922;Brookings;South Dakota
+238;1928;Painesville;Ohio
+239;1927;;
+240;1928;;
+241;1926;;
+242;1928;;
+243;1928;Oakland;California
+244;1926;;
+245;1926;;
+246;1924;;
+247;1928;;
+248;1928;Jersey City;New Jersey
+249;1925;San Francisco;California
+250;1927;Chicago;Illinois
+251;1923;;
+252;1928;Long Beach;California
+253;1928;;
+254;1928;Kelleys Island;Ohio
+255;1926;Abilene;Texas
+256;1923;Oakland;California
+257;1929;Rockford;Illinois
+258;1929;;
+259;1926;;
+260;1926;;
+261;1926;Grant County;Indiana
+262;1929;;
+263;1927;;
+264;1929;Griggsville;Illinois
+265;1928;Sacramento;California
+266;1929;Chillicothe;Ohio
+267;1929;;
+268;1928;Charleston;West Virginia
+269;1930;Sailes;Louisiana
+270;1928;New York;New York
+271;1922;Missouri;
+272;1928;Henshaw;Kentucky
+273;1928;;
+274;1926;;
+275;1925;Sheridan;Wyoming
+276;1928;;
+277;1927;Gary;Indiana
+278;1929;;
+279;1928;;
+280;1927;;
+281;1929;;
+282;1926;Duluth;Minnesota
+283;1928;;
+284;1926;;
+285;1926;;
+286;1927;McKeesport;Pennsylvania
+287;1931;Brooklyn;New York
+288;1930;Queens;New York
+289;1930;Muskogee;Oklahoma
+290;1930;;
+291;1930;;
+292;1928;;
+293;1930;Wilkinsburg;Pennsylvania
+294;1929;;
+295;1929;;
+296;1930;;
+297;1927;;
+298;1927;;
+299;1928;;
+300;1925;Mahanoy City;Pennsylvania
+301;1928;;
+302;1931;;
+303;1928;;
+304;1930;Dayton;Ohio
+305;1931;;
+306;1931;Palmerton;Pennsylvania
+307;1930;;
+308;1929;;
+309;1928;;
+310;1928;;
+311;1927;;
+312;1929;;
+313;1930;;
+314;1929;;
+315;1928;;
+316;1927;;
+317;1929;;
+318;1930;Charleston;West Virginia
+319;1930;Brooklyn;New York
+320;1930;New York;New York
+321;1928;West Mifflin;Pennsylvania
+322;1929;Pratt;Kansas
+323;1931;Philadelphia;Pennsylvania
+324;1930;;
+325;1931;;
+326;1931;Beaumont;Texas
+327;1930;;
+328;1927;;
+329;1930;New York;New York
+330;1931;;
+331;1928;Swissvale;Pennsylvania
+332;1928;;
+333;1930;Philadelphia;Pennsylvania
+334;1931;;
+335;1932;Vancouver;Canada
+336;1930;Elmhurst;New York
+337;1931;Wamego;Kansas
+338;1929;Petersburg;Indiana
+339;1928;;
+340;1931;New York;New York
+341;1930;;
+342;1929;;
+343;1932;San Mateo;California
+344;1925;Chicago;Illinois
+345;1935;;
+346;1935;;
+347;1930;;
+348;1929;West Jefferson;Ohio
+349;1929;;
+350;1929;Roselle;Illinois
+351;1930;Chicago;Illinois
+352;1929;;
+353;1930;New York City;New York
+354;1928;Hollywood;California
+355;1930;;
+356;1930;;
+357;1932;;
+358;1930;;
+359;1929;;
+360;1931;Minoa;New York
+361;1929;Philadelphia;Pennsylvania
+362;1929;;
+363;1932;;
+364;1928;Dayton;Ohio
+365;1930;Erie;Pennsylvania
+366;1932;;
+367;1929;Trenton;New Jersey
+368;1932;Chicago;Illinois
+369;1931;;
+370;1929;;
+371;1930;;
+372;1931;;
+373;1928;;
+374;1928;;
+375;1930;;
+376;1932;Philadelphia;Pennsylvania
+377;1932;;
+378;1933;;
+379;1932;Union City;New Jersey
+380;1932;Baton Rouge;Louisiana
+381;1931;Corydon;Kentucky
+382;1930;;
+383;1932;Corbin;Kentucky
+384;1931;Baltimore;Maryland
+385;1932;;
+386;1932;Paris;Kentucky
+387;1930;Bedford;Indiana
+388;1930;Central City;Kentucky
+389;1930;;
+390;1933;New Rochelle;New York
+391;1931;Otterbein;Indiana
+392;1931;;
+393;1933;;
+394;1932;;
+395;1931;;
+396;1930;Rochester;New York
+397;1931;;
+398;1933;New York;New York
+399;1933;;
+400;1932;Hibbing;Minnesota
+401;1933;Philadelphia;Pennsylvania
+402;1933;Southampton;United Kingdom
+403;1933;Jonesville;North Carolina
+404;1929;;
+405;1932;;
+406;1930;San Francisco;California
+407;1933;Phillips;Wisconsin
+408;1931;;
+409;1933;Britton;South Dakota
+410;1930;Newark;New Jersey
+411;1933;Pottstown;Pennsylvania
+412;1935;Bronx;New York
+413;1935;;
+414;1933;Watsonville;California
+415;1933;;
+416;1933;Pittsburgh;Pennsylvania
+417;1934;Pittsburgh;Pennsylvania
+418;1931;;
+419;1932;;
+420;1933;Detroit;Michigan
+421;1927;;
+422;1932;Independence;Missouri
+423;1932;Long Island City;New York
+424;1934;Malvern;Arkansas
+425;1933;New York;New York
+426;1932;New York;New York
+427;1931;Owensboro;Kentucky
+428;1934;Union City;New Jersey
+429;1934;;
+430;1934;Jonesboro;Louisiana
+431;1933;Lakeport;California
+432;1935;Philadelphia;Pennsylvania
+433;1932;Terre Haute;Indiana
+434;1934;;
+435;1934;Dallas;Texas
+436;1932;Pennville;Indiana
+437;1934;;
+438;1934;;
+439;1934;Monroe;Louisiana
+440;1933;Denver;Colorado
+441;1934;Chicago;Illinois
+442;1935;Leonard;Missouri
+443;1935;;
+444;1930;Lynn;Massachusetts
+445;1931;;
+446;1935;;
+447;1933;;
+448;1931;;
+449;1935;;
+450;1932;Astoria;New York
+451;1935;Chicago;Illinois
+452;1935;;
+453;1931;;
+454;1933;Wilmington;North Carolina
+455;1935;Webster Groves;Missouri
+456;1935;Brooklyn;New York
+457;1931;New Haven;Connecticut
+458;1935;;
+459;1935;;
+460;1933;New York;New York
+461;1934;Winnsboro;Louisiana
+462;1932;Pontiac;Michigan
+463;1935;Louisville;Kentucky
+464;1930;San Francisco;California
+465;1933;;
+466;1934;Washington;District of Columbia
+467;1935;Corbin;Kentucky
+468;1933;Campbell Hill;Illinois
+469;1936;Brooklyn;New York
+470;1935;;
+471;1936;Ethel;Mississippi
+472;1936;Brooklyn;New York
+473;1936;;
+474;1937;Springfield;Ohio
+475;1936;Oklahoma City;Oklahoma
+476;1937;Portland;Oregon
+477;1936;Huntington;West Virginia
+478;1935;Columbia;Kentucky
+479;1936;Owingsville;Kentucky
+480;1932;Los Angeles;California
+481;1932;;
+482;1936;New York;New York
+483;1936;;
+484;1933;Keokee;Virginia
+485;1936;Louisville;Kentucky
+486;1936;Harrah;Oklahoma
+487;1935;Philadelphia;Pennsylvania
+488;1934;Wickliffe;Kentucky
+489;1936;;
+490;1933;;
+491;1936;;
+492;1937;Monroe;Wisconsin
+493;1936;Gary;Indiana
+494;1932;Monticello;Kentucky
+495;1936;Philadelphia;Pennsylvania
+496;1937;St. Louis;Missouri
+497;1933;Dayton;Ohio
+498;1937;Duryea;Pennsylvania
+499;1936;Chicago;Illinois
+500;1937;Middleton;Tennessee
+501;1935;;
+502;1937;Brooklyn;New York
+503;1935;;
+504;1937;Selma;Alabama
+505;1937;;
+506;1938;Princeton;Illinois
+507;1937;;
+508;1936;;
+509;1933;;
+510;1936;Newark;New Jersey
+511;1937;Omaha;Nebraska
+512;1938;Woodbury;New Jersey
+513;1938;Vanceburg;Kentucky
+514;1933;;
+515;1938;San Gabriel;California
+516;1938;;
+517;1938;;
+518;1936;;
+519;1938;Philadelphia;Pennsylvania
+520;1938;;
+521;1936;;
+522;1938;Philadelphia;Pennsylvania
+523;1938;Minden;Louisiana
+524;1936;Murphysboro;Illinois
+525;1936;;
+526;1938;Charlotte;Tennessee
+527;1938;New York;New York
+528;1938;Chelyan;West Virginia
+529;1937;Brooklyn;New York
+530;1936;;
+531;1939;New Bern;North Carolina
+532;1939;Jersey City;New Jersey
+533;1939;;
+534;1937;;
+535;1938;Yazoo City;Mississippi
+536;1939;;
+537;1936;Williamsport;Kentucky
+538;1938;Rochester;New York
+539;1938;Chicago;Illinois
+540;1937;Akron;Ohio
+541;1939;Hartford;Connecticut
+542;1939;;
+543;1938;Newark;New Jersey
+544;1938;Marion;Indiana
+545;1938;;
+546;1938;New York;New York
+547;1939;;
+548;1939;;
+549;1938;Harbin Manchuria;China
+550;1938;;
+551;1939;St. Louis;Missouri
+552;1939;;
+553;1939;Quincy;Illinois
+554;1938;;
+555;1938;Philadelphia;Pennsylvania
+556;1939;Chicago;Illinois
+557;1938;;
+558;1936;Farmington;Kentucky
+559;1939;;
+560;1937;Greenville County;Virginia
+561;1937;Chester;Pennsylvania
+562;1938;;
+563;1937;;
+564;1939;;
+565;1938;Sturgis;Kentucky
+566;1939;Hillister;Texas
+567;1939;Hobbs;New Mexico
+568;1941;Portage;Pennsylvania
+569;1936;Neon;Kentucky
+570;1940;Detroit;Michigan
+571;1940;Terre Haute;Indiana
+572;1940;Long Island City;New York
+573;1922;;
+574;1940;Far Rockaway;New York
+575;1940;;
+576;1939;Worcester;Massachusetts
+577;1937;;
+578;1938;Atlanta;Georgia
+579;1940;Martins Ferry;Ohio
+580;1940;Philadelphia;Pennsylvania
+581;1940;;
+582;1940;Brooklyn;New York
+583;1939;San Angelo;Texas
+584;1940;;
+585;1940;;
+586;1940;Muskegon;Michigan
+587;1939;;
+588;1940;;
+589;1940;Santa Maria;California
+590;1941;;
+591;1939;Greenville County;Virginia
+592;1934;Owingsville;Kentucky
+593;1940;Covington;Kentucky
+594;1940;;
+595;1940;Portland;Oregon
+596;1940;Bethlehem;Mississippi
+597;1936;Washington;District of Columbia
+598;1940;;
+599;1940;;
+600;1937;;
+601;1938;Austin;Texas
+602;1939;;
+603;1940;Cordova;North Carolina
+604;1941;;
+605;1942;;
+606;1940;New York;New York
+607;1941;New York;New York
+608;1941;;
+609;1941;Washington;District of Columbia
+610;1938;Akron;Ohio
+611;1941;Tulsa;Oklahoma
+612;1939;Milwaukee;Wisconsin
+613;1940;Middletown;Ohio
+614;1940;North Little Rock;Arkansas
+615;1938;Thief River Falls;Minnesota
+616;1939;;
+617;1939;Shelby;Ohio
+618;1940;Jacksonville;Florida
+619;1939;Covington;Kentucky
+620;1941;Princeton;West Virginia
+621;1941;Akron;Ohio
+622;1941;;
+623;1940;;
+624;1941;Tuckerman;Arkansas
+625;1942;Muncie;Indiana
+626;1942;Jamestown;Ohio
+627;1938;Chicago;Illinois
+628;1941;Texas City;Texas
+629;1941;Coos Bay;Oregon
+630;1942;;
+631;1940;;
+632;1942;Winston-Salem;North Carolina
+633;1942;;
+634;1942;Nashville;Tennessee
+635;1941;San Marcos;Texas
+636;1942;Columbus;Ohio
+637;1926;Harlan;Kentucky
+638;1941;Toledo;Ohio
+639;1942;Rocky;Oklahoma
+640;1942;Schenectady;New York
+641;1942;Houston;Texas
+642;1942;Astoria;New York
+643;1942;Jersey City;New Jersey
+644;1942;Hico;Louisiana
+645;1943;Prescott;Arkansas
+646;1941;Washington;District of Columbia
+647;1939;;
+648;1942;Meridian;Mississippi
+649;1944;Elizabeth;New Jersey
+650;1942;Burlington;North Carolina
+651;1942;Detroit;Michigan
+652;1943;Dayton;Ohio
+653;1943;Brooklyn;New York
+654;1944;San Francisco;California
+655;1943;Encinitas;California
+656;1942;Minden;Louisiana
+657;1943;Los Angeles;California
+658;1942;Washington;District of Columbia
+659;1943;Franklin;Indiana
+660;1943;Birmingham;Alabama
+661;1942;La Porte;Indiana
+662;1942;McLeansboro;Illinois
+663;1942;Sharon;Pennsylvania
+664;1941;Dallas;Texas
+665;1940;Belle Glade;Florida
+666;1940;;
+667;1940;;
+668;1941;Hickory;North Carolina
+669;1943;Philadelphia;Pennsylvania
+670;1943;;
+671;1942;Easton;Pennsylvania
+672;1944;Detroit;Michigan
+673;1944;Washington;District of Columbia
+674;1941;Tuckerman;Arkansas
+675;1943;Washington;District of Columbia
+676;1944;Los Angeles;California
+677;1943;Fort Worth;Texas
+678;1943;Washington;District of Columbia
+679;1941;Conway;Arkansas
+680;1941;New York;New York
+681;1945;Brooklyn;New York
+682;1944;;
+683;1942;Union City;New Jersey
+684;1915;;
+685;1941;;
+686;1944;Greensboro;North Carolina
+687;1929;Chillicothe;Ohio
+688;1942;Framingham;Massachusetts
+689;1943;;
+690;1944;Nashville;Tennessee
+691;1942;Bastrop;Louisiana
+692;1944;Sharon;Pennsylvania
+693;1944;Philadelphia;Pennsylvania
+694;1943;Chicago;Illinois
+695;1944;;
+696;1943;;
+697;1941;Elgin;Illinois
+698;1944;Chicago;Illinois
+699;1944;Evansville;Indiana
+700;1944;North Canton;Ohio
+701;1944;Natchez;Mississippi
+702;1945;Fort Myers;Florida
+703;1942;;
+704;1944;;
+705;1943;Crystal City;Missouri
+706;1944;;
+707;1945;;
+708;1943;Durham;North Carolina
+709;1944;Buffalo;New York
+710;1941;Muncie;Indiana
+711;1943;;
+712;1945;Brooklyn;New York
+713;1944;;
+714;1943;Atlanta;Georgia
+715;1945;Atlanta;Georgia
+716;1945;;
+717;1945;;
+718;1944;Huntington Beach;California
+719;1943;Campbellsville;Kentucky
+720;1943;Cleveland;Ohio
+721;1945;Deer Lodge;Montana
+722;1943;Washington;District of Columbia
+723;1945;;
+724;1943;Houston;Texas
+725;1942;Riverside;New Jersey
+726;1945;;
+727;1944;Louisville;Kentucky
+728;1945;;
+729;1944;Summit;Mississippi
+730;1944;Miami;Florida
+731;1943;St. Louis;Missouri
+732;1944;Philadelphia;Pennsylvania
+733;1939;;
+734;1945;;
+735;1945;Rome;New York
+736;1944;Riverside;California
+737;1945;;
+738;1943;Dayton;Ohio
+739;1944;;
+740;1944;Amherst;Virginia
+741;1946;;
+742;1944;;
+743;1944;Waynesboro;Virginia
+744;1944;River Rouge;Michigan
+745;1939;Bonham;Texas
+746;1944;Seattle;Washington
+747;1946;Brooklyn;New York
+748;1946;Lynwood;California
+749;1946;;
+750;1945;;
+751;1945;;
+752;1945;Cleveland;Ohio
+753;1941;;
+754;1946;Baton Rouge;Louisiana
+755;1946;Canton;Ohio
+756;1946;Springfield;Ohio
+757;1945;;
+758;1945;Charlestown;West Virginia
+759;1945;;
+760;1945;Tampa;Florida
+761;1946;;
+762;1947;;
+763;1945;Rayville;Louisiana
+764;1944;Cambridge;Massachusetts
+765;1946;Dayton;Ohio
+766;1946;;
+767;1946;Brooklyn;New York
+768;1947;;
+769;1946;;
+770;1946;Uniontown;Pennsylvania
+771;1946;Dayton;Ohio
+772;1946;Miami;Florida
+773;1946;Brooklyn;New York
+774;1946;St. Louis;Missouri
+775;1946;St. Louis;Missouri
+776;1946;Fitzgerald;Georgia
+777;1945;;
+778;1946;Thornton;Mississippi
+779;1945;Aberdeen;Washington
+780;1945;New York;New York
+781;1945;Tacoma;Washington
+782;1943;Elba;Alabama
+783;1947;Princeton;Kentucky
+784;1945;Detroit;Michigan
+785;1946;Louisville;Kentucky
+786;1945;Brownsville;Tennessee
+787;1945;;
+788;1944;Weirton;West Virginia
+789;1945;;
+790;1947;New York;New York
+791;1947;Kansas City;Kansas
+792;1946;;
+793;1947;;
+794;1946;Philadelphia;Pennsylvania
+795;1947;Hardinsburg;Kentucky
+796;1945;Philadelphia;Pennsylvania
+797;1947;Richmond;Virginia
+798;1946;Brooklyn;New York
+799;1947;;
+800;1946;Winston-Salem;North Carolina
+801;1947;;
+802;1947;Birmingham;Alabama
+803;1942;Brooklyn;New York
+804;1946;;
+805;1947;Moline;Illinois
+806;1945;Covina;California
+807;1946;Gary;Indiana
+808;1947;Toledo;Ohio
+809;1948;Boston;Massachusetts
+810;1946;San Luis Obispo;California
+811;1947;San Francisco;California
+812;1946;Bainbridge;Georgia
+813;1947;;
+814;1947;Memphis;Tennessee
+815;1948;;
+816;1939;;
+817;1939;;
+818;1948;Cleveland;Ohio
+819;1947;Sparta;Georgia
+820;1947;;
+821;1945;Washington;District of Columbia
+822;1947;St. Louis;Missouri
+823;1947;Atlanta;Georgia
+824;1948;New York;New York
+825;1947;Covington;Kentucky
+826;1948;Hollywood;California
+827;1944;;
+828;1941;;
+829;1946;;
+830;1946;;
+831;1948;;
+832;1948;Newport;Kentucky
+833;1948;;
+834;1947;Winthrop;Massachusetts
+835;1946;Columbus;Georgia
+836;1947;Philadelphia;Pennsylvania
+837;1948;;
+838;1946;;
+839;1948;;
+840;1947;;
+841;1949;Silver City;Mississippi
+842;1948;Hogansville;Georgia
+843;1949;;
+844;1949;;
+845;1948;Pittsburgh;Pennsylvania
+846;1948;Washington;District of Columbia
+847;1948;;
+848;1947;Herleton;Texas
+849;1947;Carthage;Mississippi
+850;1948;;
+851;1947;;
+852;1948;Indianaola;Mississippi
+853;1948;Buffalo;New York
+854;1947;Aliquippa;Pennsylvania
+855;1948;;
+856;1948;Philadelphia;Pennsylvania
+857;1948;Raeford;North Carolina
+858;1948;;
+859;1948;Charleston;Illinois
+860;1948;Norwalk;Connecticut
+861;1948;;
+862;1948;Washington;District of Columbia
+863;1948;Darby;Pennsylvania
+864;1948;Russellville;Kentucky
+865;1948;;
+866;1948;Downey;California
+867;1944;Louisville;Kentucky
+868;1945;Campbellsville;Kentucky
+869;1948;;
+870;1947;;
+871;1948;;
+872;1945;;
+873;1948;Houston;Texas
+874;1948;Canton;Georgia
+875;1948;Hamtramck;Michigan
+876;1948;;
+877;1948;Jackson;Mississippi
+878;1947;;
+879;1948;;
+880;1948;;
+881;1945;Seattle;Washington
+882;1946;;
+883;1948;;
+884;1947;;
+885;1948;;
+886;1949;;
+887;1948;;
+888;1948;Milwaukee;Wisconsin
+889;1948;Washington;District of Columbia
+890;1948;;
+891;1950;Berkeley;California
+892;1949;Lincolnton;North Carolina
+893;1949;New York;New York
+894;1950;;
+895;1948;Pittsburgh;Pennsylvania
+896;1948;Ames;Iowa
+897;1947;Horse Cave;Kentucky
+898;1949;;
+899;1948;;
+900;1949;;
+901;1948;Newark;New Jersey
+902;1949;Los Angeles;California
+903;1949;;
+904;1946;;
+905;1948;Scottsville;Kentucky
+906;1949;;
+907;1949;Detroit;Michigan
+908;1947;Rosedale;Mississippi
+909;1948;Walterboro;South Carolina
+910;1949;Lacrosse;Wisconsin
+911;1949;;
+912;1949;Portland;Oregon
+913;1947;Carrolton;Mississippi
+914;1948;Riverside;California
+915;1950;;
+916;1948;Stuart;Florida
+917;1949;Union;South Carolina
+918;1948;Altheimer;Arkansas
+919;1949;;
+920;1949;Bessemer;Alabama
+921;1948;New York;New York
+922;1949;Macon;Georgia
+923;1948;Bellport;New York
+924;1949;;
+925;1949;Greencastle;Indiana
+926;1948;Detroit;Michigan
+927;1949;Los Angeles;California
+928;1950;Columbia;Louisiana
+929;1948;Philadelphia;Pennsylvania
+930;1949;Flushing;New York
+931;1946;;
+932;1948;;
+933;1949;Franklinton;North Carolina
+934;1950;Bakersfield;California
+935;1950;Brooklyn;New York
+936;1947;Detroit;Michigan
+937;1942;Brooklyn;New York
+938;1950;Waukegan;Illinois
+939;1950;;
+940;1949;Houston;Texas
+941;1946;Brooklyn;New York
+942;1950;Harrisburg;Pennsylvania
+943;1950;Evanston;Illinois
+944;1949;Atlantic City;New Jersey
+945;1949;;
+946;1950;Canton;Mississippi
+947;1950;Stockton;California
+948;1950;Clayton;Alabama
+949;1946;New York;New York
+950;1949;Corpus Christi;Texas
+951;1949;Philadelphia;Pennsylvania
+952;1945;Cleveland;Ohio
+953;1950;Boston;Massachusetts
+954;1950;Chicago;Illinois
+955;1951;Greensboro;North Carolina
+956;1950;New York;New York
+957;1950;Denver;Colorado
+958;1950;;
+959;1950;Hartford;Connecticut
+960;1950;Talbottom;Georgia
+961;1948;;
+962;1950;Chicago;Illinois
+963;1949;Russellville;Kentucky
+964;1951;New Albany;Mississippi
+965;1950;Rockville Centre;New York
+966;1950;Los Angeles;California
+967;1949;;
+968;1950;Wausau;Wisconsin
+969;1949;;
+970;1950;Hartselle;Alabama
+971;1948;;
+972;1950;Long Beach;California
+973;1947;;
+974;1950;Chula Vista;California
+975;1950;Torrance;California
+976;1947;Tryon;North Carolina
+977;1950;;
+978;1951;Philadelphia;Pennsylvania
+979;1951;New York;New York
+980;1951;Cincinnati;Ohio
+981;1951;Maywood;Illinois
+982;1951;Richmond;Virginia
+983;1951;Frankfurt;Germany
+984;1947;Philadelphia;Pennsylvania
+985;1949;;
+986;1951;Trinidad and Tobago;
+987;1951;;
+988;1951;Christopher;Illinois
+989;1951;Mullens;West Virginia
+990;1950;New York;New York
+991;1951;Cincinnati;Ohio
+992;1951;North Providence;Rhode Island
+993;1950;Indianapolis;Indiana
+994;1950;;
+995;1949;Bellingham;Washington
+996;1950;;
+997;1951;Augusta;Georgia
+998;1950;Mt. Vernon;Illinois
+999;1951;Philadelphia;Pennsylvania
+1000;1952;Houston;Texas
+1001;1949;;
+1002;1951;Traverse City;Michigan
+1003;1951;Dubuque;Iowa
+1004;1951;;
+1005;1951;;
+1006;1948;;
+1007;1928;New York;New York
+1008;1951;Hoke;North Carolina
+1009;1951;Camden;New Jersey
+1010;1951;Los Angeles;California
+1011;1950;Los Angeles;California
+1012;1950;Bellefontaine;Ohio
+1013;1950;;
+1014;1950;;
+1015;1945;Neptune;New Jersey
+1016;1951;Washington;District of Columbia
+1017;1951;Rolling Ford;Mississippi
+1018;1950;Greenwood;Mississippi
+1019;1950;Philadelphia;Pennsylvania
+1020;1943;Minneapolis;Minnesota
+1021;1948;Harvey;Illinois
+1022;1951;Gibson;North Carolina
+1023;1950;Columbia;South Carolina
+1024;1952;Frederick;Maryland
+1025;1954;New Brunswick;New Jersey
+1026;1952;Crossnore;North Carolina
+1027;1951;Jackson;Mississippi
+1028;1949;Racine;Wisconsin
+1029;1951;Albany;Georgia
+1030;1951;Richmond;Virginia
+1031;1952;Elma;Washington
+1032;1954;Vredenburgh;Alabama
+1033;1952;Westbury;New York
+1034;1952;Cedar Rapids;Iowa
+1035;1951;Kansas City;Kansas
+1036;1950;Roanoke;Virginia
+1037;1950;Seattle;Washington
+1038;1952;Newberry;South Carolina
+1039;1952;Brooklyn;New York
+1040;1951;Yazoo City;Mississippi
+1041;1952;New Orleans;Louisiana
+1042;1952;Chicago;Illinois
+1043;1945;Tallulah;Louisiana
+1044;1950;Indianapolis;Indiana
+1045;1951;Cleveland;Ohio
+1046;1952;Nashville;Tennessee
+1047;1951;Dayton;Ohio
+1048;1952;Kewanee;Illinois
+1049;1955;Detroit;Michigan
+1050;1953;Detroit;Michigan
+1051;1951;San Francisco;California
+1052;1951;Jacksonville;Florida
+1053;1944;Chicago;Illinois
+1054;1951;Columbus;Ohio
+1055;1952;Berlin;Maryland
+1056;1920;Minnesota;
+1057;1952;San Francisco;California
+1058;1953;Philadelphia;Pennsylvania
+1059;1951;New York;New York
+1060;1947;Brooklyn;New York
+1061;1951;Kansas City;Missouri
+1062;1951;Southampton;New York
+1063;1952;La Mesa;California
+1064;1952;Atlabta;Georgia
+1065;1952;Washington;District of Columbia
+1066;1952;Harper;Kansas
+1067;1950;Providence;Rhode Island
+1068;1953;Berkeley;California
+1069;1951;Levittown;Pennsylvania
+1070;1926;;
+1071;1952;Rockaway;New York
+1072;1954;Lawrence;Kansas
+1073;1953;Mullens;West Virginia
+1074;1951;Philadelphia;Pennsylvania
+1075;1953;Boston;Massachusetts
+1076;1953;Montgomery;Alabama
+1077;1953;East Chicago;Indiana
+1078;1954;Philadelphia;Pennsylvania
+1079;1951;Oceanside;California
+1080;1950;Billings;Montana
+1081;1957;Orlando;Florida
+1082;1951;Berkley;West Virginia
+1083;1953;Oakland;California
+1084;1953;Brooklyn;New York
+1085;1952;Santa Barbara;California
+1086;1952;;
+1087;1944;Madison;Illinois
+1088;1953;Hamilton;Ohio
+1089;1953;San Pedro;California
+1090;1951;Detroit;Michigan
+1091;1952;Devils Lake;North Dakota
+1092;1954;Detroit;Michigan
+1093;1951;Columbus;Georgia
+1094;1953;Ark City;Kansas
+1095;1942;Alexandria;Louisiana
+1096;1953;San Mateo;California
+1097;1953;Grand Island;Nebraska
+1098;1953;;
+1099;1953;Berkeley;California
+1100;1953;South Bend;Indiana
+1101;1951;Reseda;California
+1102;1953;Greenville;South Carolina
+1103;1948;Chicago;Illinois
+1104;1953;Cotton Plant;Arkansas
+1105;1950;Indianapolis;Indiana
+1106;1952;Elmira;New York
+1107;1953;Phenix City;Alabama
+1108;1953;San Diego;California
+1109;1955;Bridgeport;Connecticut
+1110;1954;Fresno;California
+1111;1953;Chicago;Illinois
+1112;1949;New York;New York
+1113;1953;New Orleans;Louisiana
+1114;1952;New York;New York
+1115;1953;Macon;Mississippi
+1116;1952;Greenville;South Carolina
+1117;1953;Bronx;New York
+1118;1953;Detroit;Michigan
+1119;1953;Silver City;New Mexico
+1120;1953;Mount Vernon;New York
+1121;1957;Englewood;New Jersey
+1122;1954;South Bend;Indiana
+1123;1952;Hopkinsville;Kentucky
+1124;1955;Harlingen;Texas
+1125;1952;Providence;Rhode Island
+1126;1953;Winston-Salem;North Carolina
+1127;1950;Canton;Ohio
+1128;1951;Washington;District of Columbia
+1129;1945;Ellensburg;Washington
+1130;1955;Pittsburgh;Pennsylvania
+1131;1946;Oklahoma City;Oklahoma
+1132;1954;Phoenix;Illinois
+1133;1953;Haines City;Florida
+1134;1950;Huntingburg;Indiana
+1135;1947;Fort Worth;Texas
+1136;1947;;
+1137;1952;Macon;Mississippi
+1138;1955;Chicago;Illinois
+1139;1944;Indianapolis;Indiana
+1140;1944;Detroit;Michigan
+1141;1956;Washington;District of Columbia
+1142;1955;Detroit;Michigan
+1143;1954;Phoenix;Arizona
+1144;1949;Raleigh;North Carolina
+1145;1948;Riverside;California
+1146;1954;Leighton;Alabama
+1147;1954;Brooklyn;New York
+1148;1946;Sacramento;California
+1149;1952;New York;New York
+1150;1952;Tipton;Indiana
+1151;1954;Columbia;South Carolina
+1152;1950;Roosevelt;New York
+1153;1954;Flint;Michigan
+1154;1953;Casablanca;Morocco
+1155;1954;Flint;Michigan
+1156;1950;Philadelphia;Pennsylvania
+1157;1953;Uniontown;Pennsylvania
+1158;1952;Detroit;Michigan
+1159;1949;Chipley;Florida
+1160;1951;McComb;Mississippi
+1161;1953;Madison;Wisconsin
+1162;1954;Shelby;Michigan
+1163;1953;Mount Vernon;New York
+1164;1953;Chicago;Illinois
+1165;1953;Brooklyn;New York
+1166;1949;Sacramento;California
+1167;1954;Philadelphia;Pennsylvania
+1168;1952;Freeport;Illinois
+1169;1948;Batavia;Illinois
+1170;1954;San Pedro;California
+1171;1951;Charlotte;North Carolina
+1172;1950;McGehee;Arkansas
+1173;1946;Memphis;Tennessee
+1174;1954;St. Louis;Missouri
+1175;1936;;
+1176;1952;Penn Hills;Pennsylvania
+1177;1949;Charlotte;North Carolina
+1178;1952;Birmingham;Alabama
+1179;1952;Braddock;Pennsylvania
+1180;1954;Hicksville;New York
+1181;1951;Columbus;Ohio
+1182;1952;Boston;Massachusetts
+1183;1952;Chicago;Illinois
+1184;1953;Durham;North Carolina
+1185;1952;Pittsburgh;Pennsylvania
+1186;1955;Petersburg;Virginia
+1187;1954;Sandusky;Ohio
+1188;1953;Philadelphia;Pennsylvania
+1189;1946;Nashville;Tennessee
+1190;1952;Birmingham;Alabama
+1191;1950;Denhelder;Netherlands
+1192;1951;Memphis;Tennessee
+1193;1956;Melrose;Minnesota
+1194;1949;Bronx;New York
+1195;1953;New Brunswick;New Jersey
+1196;1953;Shreveport;Louisiana
+1197;1955;Chicago;Illinois
+1198;1948;River Edge;New Jersey
+1199;1950;Brooklyn;New York
+1200;1949;Cincinnati;Ohio
+1201;1953;St. Louis;Missouri
+1202;1953;Detroit;Michigan
+1203;1953;Brooklyn;New York
+1204;1955;Bakersfield;California
+1205;1949;Tallulah;Louisiana
+1206;1949;Detroit;Michigan
+1207;1952;Mount Vernon;New York
+1208;1949;;
+1209;1954;Sewickley;Pennsylvania
+1210;1953;Mount Vernon;New York
+1211;1951;Perth Amboy;New Jersey
+1212;1946;Washington;District of Columbia
+1213;1954;Dallas;Texas
+1214;1950;Salida;California
+1215;1954;Shelby;North Carolina
+1216;1953;Marion;Indiana
+1217;1950;Hershey;Pennsylvania
+1218;1950;;
+1219;1955;Long Island City;New York
+1220;1954;Millersville;Pennsylvania
+1221;1953;Chicago;Illinois
+1222;1952;Jackson;Mississippi
+1223;1955;Portland;Oregon
+1224;1952;Baltimore;Maryland
+1225;1954;Anderson;Indiana
+1226;1943;Colorado Springs;Colorado
+1227;1943;Colorado Springs;Colorado
+1228;1951;New Haven;Connecticut
+1229;1947;San Francisco;California
+1230;1954;Monroe;Louisiana
+1231;1955;Moultrie;Georgia
+1232;1955;Los Angeles;California
+1233;1954;New Castle;Indiana
+1234;1955;Winter Haven;Florida
+1235;1954;Louisville;Kentucky
+1236;1953;Brooklyn;New York
+1237;1953;Utica;Mississippi
+1238;1955;Lompoc;California
+1239;1952;Wilson Mills;North Carolina
+1240;1955;Washington;District of Columbia
+1241;1953;Brookline;Massachusetts
+1242;1955;Louisville;Kentucky
+1243;1948;Valhalla;New York
+1244;1954;Edwards AFB;California
+1245;1955;Monaca;Pennsylvania
+1246;1931;Beaumont;Texas
+1247;1954;Atlanta;Georgia
+1248;1954;;
+1249;1955;Seattle;Washington
+1250;1936;;
+1251;1954;Chicago;Illinois
+1252;1954;San Jose;California
+1253;1955;Rome;Georgia
+1254;1955;Boulder;Colorado
+1255;1954;Chicago;Illinois
+1256;1952;Cleveland;Ohio
+1257;1955;Satu-Mare;Romania
+1258;1955;Providence;Rhode Island
+1259;1944;Atlanta;Georgia
+1260;1954;Morganfield;Kentucky
+1261;1956;Nachitoches;Louisiana
+1262;1955;Washington;District of Columbia
+1263;1956;Brooklyn;New York
+1264;1955;Bronx;New York
+1265;1955;Richmond;Virginia
+1266;1955;Detroit;Michigan
+1267;1955;Minot;North Dakota
+1268;1954;Philadelphia;Pennsylvania
+1269;1954;New York;New York
+1270;1955;Kinston;North Carolina
+1271;1954;Mobile;Alabama
+1272;1955;Newark;New Jersey
+1273;1955;Macon;Georgia
+1274;1953;;
+1275;1955;Ann Arbor;Michigan
+1276;1955;Atlanta;Georgia
+1277;1955;Chattanooga;Tennessee
+1278;1956;Detroit;Michigan
+1279;1955;Winter Haven;Florida
+1280;1955;Cleveland;Tennessee
+1281;1954;New York;New York
+1282;1955;Kankakee;Illinois
+1283;1955;Kirksville;Missouri
+1284;1955;Los Angeles;California
+1285;1956;Philadelphia;Pennsylvania
+1286;1955;Norfolk;Virginia
+1287;1954;Mount Vernon;New York
+1288;1955;Sedalia;Missouri
+1289;1956;Mechanicsburg;Pennsylvania
+1290;1954;Portsmouth;Virginia
+1291;1957;Greenville;South Carolina
+1292;1955;Fort Smith;Arkansas
+1293;1956;San Bernardino;California
+1294;1956;Syracuse;New York
+1295;1956;Pittsburgh;Pennsylvania
+1296;1956;Chicago;Illinois
+1297;1956;Los Angeles;California
+1298;1956;Milan;Georgia
+1299;1956;Arlington Heights;Illinois
+1300;1955;Burlington;North Carolina
+1301;1956;Cleveland;Ohio
+1302;1955;Ann Arbor;Michigan
+1303;1956;Amelia;Virginia
+1304;1956;Rocky Mount;North Carolina
+1305;1956;Lexington;Kentucky
+1306;1956;Baton Rouge;Louisiana
+1307;1954;Copenhagen;Denmark
+1308;1956;Knoxville;Alabama
+1309;1956;Memphis;Tennessee
+1310;1955;Owensboro;Kentucky
+1311;1955;Erie;Pennsylvania
+1312;1956;Oak Ridge;Tennessee
+1313;1956;Monticello;Florida
+1314;1956;Salt Lake City;Utah
+1315;1955;San Diego;California
+1316;1956;Santurce;Puerto Rico
+1317;1956;Romulus;Michigan
+1318;1955;Waukegan;Illinois
+1319;1956;Atlanta;Georgia
+1320;1955;Philadelphia;Pennsylvania
+1321;1956;East Peoria;Illinois
+1322;1956;Huntsville;Alabama
+1323;1956;Indianapolis;Indiana
+1324;1955;San Francisco;California
+1325;1955;;
+1326;1956;Coral Gables;Florida
+1327;1955;Los Angeles;California
+1328;1955;DeRidder;Louisiana
+1329;1957;Dayton;Ohio
+1330;1957;Hattiesburg;Mississippi
+1331;1944;Hazard;Kentucky
+1332;1957;Inglewood;California
+1333;1955;Nassau;Bahamas
+1334;1955;San Jose;California
+1335;1956;Detroit;Michigan
+1336;1955;Chicago;Illinois
+1337;1956;Waukegan;Illinois
+1338;1956;Los Angeles;California
+1339;1956;Louisville;Kentucky
+1340;1957;Dublin;Georgia
+1341;1957;;
+1342;1956;West Baden;Indiana
+1343;1956;Cleveland;Ohio
+1344;1957;Baltimore;Maryland
+1345;1957;Lodi;California
+1346;1956;West Covina;California
+1347;1955;Trenton;New Jersey
+1348;1951;Pittsburg;California
+1349;1957;Toledo;Ohio
+1350;1956;Johnstown;Pennsylvania
+1351;1957;Saginaw;Michigan
+1352;1957;Tulare;California
+1353;1957;Gary;Indiana
+1354;1956;Royal Oak;Michigan
+1355;1955;Port Arthur;Texas
+1356;1955;Goldsboro;North Carolina
+1357;1957;East Orange;New Jersey
+1358;1957;Lynwood;California
+1359;1957;Los Angeles;California
+1360;1956;Richmond;Virginia
+1361;1957;Birmingham;Alabama
+1362;1956;Billings;Montana
+1363;1956;Canton;Ohio
+1364;1957;Brooklyn;New York
+1365;1954;Bells;Tennessee
+1366;1949;Corpus Christi;Texas
+1367;1956;Nachitoches;Louisiana
+1368;1956;Brooklyn;New York
+1369;1953;McGhee;Arkansas
+1370;1957;Panama City;Florida
+1371;1951;New York;New York
+1372;1956;Bastrop;Louisiana
+1373;1957;Birmingham;Alabama
+1374;1956;Fulda;Minnesota
+1375;1957;Muncie;Indiana
+1376;1957;New York;New York
+1377;1956;Cleveland;Ohio
+1378;1957;Spokane;Washington
+1379;1957;Little Rock;Arkansas
+1380;1957;Monroe;Louisiana
+1381;1957;Jackson;Mississippi
+1382;1957;Montgomery;Alabama
+1383;1951;Wilmington;North Carolina
+1384;1956;Seattle;Washington
+1385;1960;Oakland;California
+1386;1957;Jersey City;New Jersey
+1387;1956;Yonkers;New York
+1388;1956;Demopolis;Alabama
+1389;1958;New Haven;Connecticut
+1390;1955;Gastonia;North Carolina
+1391;1957;New Orleans;Louisiana
+1392;1958;Los Angeles;California
+1393;1957;Baltimore;Maryland
+1394;1958;New York;New York
+1395;1958;Philadelphia;Pennsylvania
+1396;1919;;
+1397;1958;Madison County;Mississippi
+1398;1969;Oakland;California
+1399;1958;Springfield;Ohio
+1400;1957;New York;New York
+1401;1954;Sandersville;Georgia
+1402;1951;Christopher;Illinois
+1403;1958;Los Angeles;California
+1404;1957;Detroit;Michigan
+1405;1958;Warren;Ohio
+1406;1957;Heacham;United Kingdom
+1407;1958;Kansas City;Kansas
+1408;1954;La Mesa;California
+1409;1958;Washington;District of Columbia
+1410;1958;Detroit;Michigan
+1411;1956;Parsons;Tennessee
+1412;1959;Monroe;Connecticut
+1413;1958;Louisville;Kentucky
+1414;1957;Middletown;Ohio
+1415;1957;Detroit;Michigan
+1416;1957;Chicago;Illinois
+1417;1957;Montgomery;Alabama
+1418;1942;Brooklyn;New York
+1419;1957;Plummerville;Arkansas
+1420;1957;Atlanta;Georgia
+1421;1956;Fort Rucker;Alabama
+1422;1956;Perry;Alabama
+1423;1959;Wilmington;North Carolina
+1424;1958;Perth Amboy;New Jersey
+1425;1957;Neenah;Wisconsin
+1426;1957;Boston;Massachusetts
+1427;1952;Lake Charles;Louisiana
+1428;1959;Canton;Mississippi
+1429;1957;Fort Wayne;Indiana
+1430;1958;Hartford;Connecticut
+1431;1959;Sarasota;Florida
+1432;1957;Detroit;Michigan
+1433;1957;Birmingham;Alabama
+1434;1957;Hibbing;Minnesota
+1435;1958;Milwaukee;Wisconsin
+1436;1958;Altoona;Pennsylvania
+1437;1957;Plymouth;South Carolina
+1438;1958;Monroe;Louisiana
+1439;1958;Chicago;Illinois
+1440;1955;Los Angeles;California
+1441;1958;Jersey City;New Jersey
+1442;1957;Chicago;Illinois
+1443;1958;Cincinnati;Ohio
+1444;1954;Macon;Georgia
+1445;1957;Bronx;New York
+1446;1958;Fort Ord;California
+1447;1958;Toledo;Ohio
+1448;1957;New Orleans;Louisiana
+1449;1957;New York;New York
+1450;1958;Greensboro;North Carolina
+1451;1958;South Gate;California
+1452;1958;Dallas;Texas
+1453;1957;Washington;District of Columbia
+1454;1956;Martinsville;Indiana
+1455;1958;Rolling Fork;Mississippi
+1456;1958;Suffolk;Virginia
+1457;1957;New Albany;Mississippi
+1458;1956;Lexington;North Carolina
+1459;1957;Birmingham;Alabama
+1460;1957;Norfolk;Virginia
+1461;1958;Wiesbaden;Germany
+1462;1955;Hollywood;California
+1463;1939;Brooklyn;New York
+1464;1957;Long Beach;California
+1465;1953;Berkeley;California
+1466;1955;Chicago;Illinois
+1467;1958;Indianapolis;Indiana
+1468;1958;Brooklyn;New York
+1469;1959;Chicago;Illinois
+1470;1959;Eugene;Oregon
+1471;1958;Birmingham;Alabama
+1472;1959;Philadelphia;Pennsylvania
+1473;1959;Panama City;Panama
+1474;1958;Valdosta;Georgia
+1475;1953;Utica;Mississippi
+1476;1959;Havre De Grace;Maryland
+1477;1958;Harvey;Illinois
+1478;1958;Ardmore;Pennsylvania
+1479;1958;Indianapolis;Indiana
+1480;1958;Dallas;Texas
+1481;1958;Huntsville;Alabama
+1482;1959;Ogden;Utah
+1483;1957;Houston;Texas
+1484;1949;New York;New York
+1485;1958;King;North Carolina
+1486;1958;Hollywood;Florida
+1487;1956;Town Creek;Alabama
+1488;1959;Lakewood;California
+1489;1959;New York;New York
+1490;1958;Reykjavik;Iceland
+1491;1955;Sanford;Florida
+1492;1955;American Falls;Idaho
+1493;1959;Rockville;Maryland
+1494;1956;Monticello;Florida
+1495;1958;Weirsdale;Florida
+1496;1944;Clairton;Pennsylvania
+1497;1959;Brooklyn;New York
+1498;1959;Minneapolis;Minnesota
+1499;1952;Boston;Massachusetts
+1500;1958;Dallas;Texas
+1501;1959;Philadelphia;Pennsylvania
+1502;1959;Cassopolis;Michigan
+1503;1958;Louisville;Kentucky
+1504;1956;Lima;Ohio
+1505;1959;Memphis;Tennessee
+1506;1959;Tyler;Texas
+1507;1959;St. Paul;Minnesota
+1508;1959;Anderson;South Carolina
+1509;1958;Milwaukee;Wisconsin
+1510;1959;Tacoma;Washington
+1511;1956;Ocala;Florida
+1512;1958;Cupertino;California
+1513;1958;Bayshore;New York
+1514;1959;Syracuse;New York
+1515;1958;Cleveland;Ohio
+1516;1959;Cheverly;Maryland
+1517;1961;Chicago;Illinois
+1518;1958;Anderson;Indiana
+1519;1959;Glen Ridge;New Jersey
+1520;1959;Knoxville;Tennessee
+1521;1959;Chicago;Illinois
+1522;1959;Hanford;California
+1523;1959;Kalamazoo;Michigan
+1524;1958;Salt Lake City;Utah
+1525;1960;Rocky Mount;North Carolina
+1526;1958;Columbus;Ohio
+1527;1959;Elizabeth;New Jersey
+1528;1958;Gray;Georgia
+1529;1959;Southhampton;New York
+1530;1959;Bernice;Louisiana
+1531;1958;Euclid;Ohio
+1532;1960;Dayton;Ohio
+1533;1960;;
+1534;1960;San Pedro;California
+1535;1960;Bridgeport;Connecticut
+1536;1956;Baltimore;Maryland
+1537;1959;Memphis;Tennessee
+1538;1955;Philadelphia;Pennsylvania
+1539;1961;Chicago;Illinois
+1540;1961;Baltimore;Maryland
+1541;1957;Westminster;California
+1542;1959;Louisville;Kentucky
+1543;1960;Gulfport;Mississippi
+1544;1959;Stillwater;Minnesota
+1545;1957;Rochester;New York
+1546;1960;Gastonia;North Carolina
+1547;1940;East St. Louis;Illinois
+1548;1961;Sacramento;California
+1549;1960;Independence;Kansas
+1550;1960;Monroe;Louisiana
+1551;1960;Park Forest;Illinois
+1552;1956;Jamaica;New York
+1553;1960;New Canaan;Connecticut
+1554;1959;Buffalo;New York
+1555;1961;Cleveland;Ohio
+1556;1960;Warren;Michigan
+1557;1960;Pine Bluff;Arkansas
+1558;1961;San Diego;California
+1559;1958;Eau Claire;Wisconsin
+1560;1959;South Bend;Indiana
+1561;1959;San Jose;California
+1562;1960;Virginia Beach;Virginia
+1563;1960;Pittsburg;Kansas
+1564;1959;Cortez;Colorado
+1565;1960;Jackson;Mississippi
+1566;1961;Birmingham;Alabama
+1567;1959;Dallas;Texas
+1568;1958;Rocky Mount;North Carolina
+1569;1958;Richmond;Virginia
+1570;1960;Birmingham;Alabama
+1571;1960;Pontiac;Michigan
+1572;1960;Vidalia;Louisiana
+1573;1960;Trenton;Illinois
+1574;1959;Richmond;Virginia
+1575;1960;Los Angeles;California
+1576;1920;;
+1577;1959;Chapel Hill;North Carolina
+1578;1960;Blytheville;Arkansas
+1579;1960;Lexington;Kentucky
+1580;1960;Broaddus;Texas
+1581;1960;St. Louis;Missouri
+1582;1960;Middletown;Connecticut
+1583;1961;Cincinnati;Ohio
+1584;1960;Dallas;Texas
+1585;1959;Richmond;Virginia
+1586;1959;Tarboro;North Carolina
+1587;1959;Moses Lake;Washington
+1588;1959;Tuskegee;Alabama
+1589;1960;Paris;France
+1590;1957;Buffalo;New York
+1591;1944;Weirton;West Virginia
+1592;1961;Gastonia;North Carolina
+1593;1953;Uxbridge;Canada
+1594;1961;Los Angeles;California
+1595;1961;Washington;District of Columbia
+1596;1960;Lake City;Minnesota
+1597;1959;Madrid;Spain
+1598;1961;Baton Rouge;Louisiana
+1599;1960;Somerville;Tennessee
+1600;1961;Oklahoma City;Oklahoma
+1601;1961;Chicago;Illinois
+1602;1960;Des Moines;Iowa
+1603;1962;New Orleans;Louisiana
+1604;1961;Lubbock;Texas
+1605;1960;Marietta;Georgia
+1606;1960;Birmingham;Alabama
+1607;1959;Bridgeport;Connecticut
+1608;1960;Williamsburg County;South Carolina
+1609;1961;Montreal;Canada
+1610;1933;New York;New York
+1611;1961;Des Moines;Iowa
+1612;1961;Elberton;Georgia
+1613;1961;Trenton;New Jersey
+1614;1957;McGehee;Arkansas
+1615;1953;McGhee;Arkansas
+1616;1961;Houston;Texas
+1617;1961;Bristol;Connecticut
+1618;1960;Thomaston;Georgia
+1619;1960;Washington;District of Columbia
+1620;1961;Mobile;Alabama
+1621;1960;Salt Lake City;Utah
+1622;1961;Mount Vernon;New York
+1623;1960;Mount Vernon;New York
+1624;1960;Houston;Texas
+1625;1956;Louisville;Kentucky
+1626;1960;Dayton;Ohio
+1627;1961;Hartford;Connecticut
+1628;1960;West Chester;Pennsylvania
+1629;1960;Toronto;Canada
+1630;1961;Chicago;Illinois
+1631;1960;Provo;Utah
+1632;1960;Harrisonburg;Virginia
+1633;1961;Ogden;Utah
+1634;1960;St. Louis;Missouri
+1635;1961;Sioux Falls;South Dakota
+1636;1961;Los Angeles;California
+1637;1960;Lakeland;Florida
+1638;1961;Smyrna;Tennessee
+1639;1961;Atlanta;Georgia
+1640;1961;Columbus;Ohio
+1641;1961;Chicago;Illinois
+1642;1960;Orefield;Pennsylvania
+1643;1960;Petersburg;Virginia
+1644;1962;Birmingham;Alabama
+1645;1959;Lenoir County;North Carolina
+1646;1961;New York;New York
+1647;1959;Memphis;Tennessee
+1648;1959;Indianapolis;Indiana
+1649;1959;Litchfield;Connecticut
+1650;1958;Chicago;Illinois
+1651;1960;Baltimore;Maryland
+1652;1963;Leeds;Alabama
+1653;1963;Chicago;Illinois
+1654;1961;Lebanon;Pennsylvania
+1655;1959;Bayville;New York
+1656;1960;Chicago;Illinois
+1657;1962;New York;New York
+1658;1962;West Memphis;Arkansas
+1659;1962;Teaneck;New Jersey
+1660;1959;Ogdensburg;New York
+1661;1961;Oklahoma City;Oklahoma
+1662;1959;Beaumont;Texas
+1663;1962;Phoenix;Arizona
+1664;1960;Provo;Utah
+1665;1962;Heidelburg;Germany
+1666;1962;Iowa City;Iowa
+1667;1962;New York;New York
+1668;1962;Jackson;Mississippi
+1669;1962;Scarsdale;New York
+1670;1963;Panama Canal Zone;Panama
+1671;1961;Seattle;Washington
+1672;1962;Los Angeles;California
+1673;1962;Los Angeles;California
+1674;1961;Oak Hill;West Virginia
+1675;1960;Long Beach;California
+1676;1963;Brooklyn;New York
+1677;1962;Clarksville;Virginia
+1678;1962;Detroit;Michigan
+1679;1962;Meriden;Connecticut
+1680;1963;Lagos;Nigeria
+1681;1961;Brooklyn;New York
+1682;1962;Minneapolis;Minnesota
+1683;1962;Highland Park;Michigan
+1684;1962;Newport News;Virginia
+1685;1962;Barberton;Ohio
+1686;1960;Kingston;Jamaica
+1687;1954;St. Joseph;Michigan
+1688;1960;Waterloo;New York
+1689;1962;Pensacola;Florida
+1690;1962;McMinnville;Oregon
+1691;1962;Washington;District of Columbia
+1692;1961;Wilmington;Delaware
+1693;1962;Spokane;Washington
+1694;1961;Los Angeles;California
+1695;1962;Phoenix;Arizona
+1696;1962;Boynton Beach;Florida
+1697;1962;Bangor;Maine
+1698;1960;Lexington;Kentucky
+1699;1962;Memphis;Tennessee
+1700;1962;;
+1701;1960;Pocatello;Idaho
+1702;1953;Mount Vernon;New York
+1703;1961;New York;New York
+1704;1961;Alexandria;Virginia
+1705;1962;Columbia;South Carolina
+1706;1962;Raleigh;North Carolina
+1707;1961;Houston;Texas
+1708;1963;Hartford;Connecticut
+1709;1962;Washington;District of Columbia
+1710;1964;Monroe;Louisiana
+1711;1962;Munich;Germany
+1712;1962;Gogrial;South Sudan
+1713;1963;Clearwater;Florida
+1714;1963;Houston;Mississippi
+1715;1963;Brooklyn;New York
+1716;1962;Ypsilanti;Michigan
+1717;1963;Sacramento;California
+1718;1962;Columbia;South Carolina
+1719;1958;Montreal;Canada
+1720;1961;Chicago;Illinois
+1721;1963;Shreveport;Louisiana
+1722;1962;Kingston;Jamaica
+1723;1960;Triavna;Bulgaria
+1724;1960;;
+1725;1959;Newman;Georgia
+1726;1959;Newman;Georgia
+1727;1958;Washington;District of Columbia
+1728;1963;Kansas City;Missouri
+1729;1959;Los Angeles;California
+1730;1960;Hollis;Oklahoma
+1731;1960;;
+1732;1962;Tuskegee;Alabama
+1733;1957;Cap-Haitian;Haiti
+1734;1963;New Orleans;Louisiana
+1735;1962;Colorado Springs;Colorado
+1736;1963;Cedar Rapids;Iowa
+1737;1962;West Memphis;Arkansas
+1738;1963;Summerfield;Louisiana
+1739;1962;Washington;District of Columbia
+1740;1962;Fort Smith;Arkansas
+1741;1963;Worcester;Massachusetts
+1742;1963;Columbia;South Carolina
+1743;1962;Torrance;California
+1744;1961;Fresno;California
+1745;1961;Lexington;Kentucky
+1746;1958;Tucson;Arizona
+1747;1963;New York;New York
+1748;1963;Cleveland;Ohio
+1749;1961;Vicksburg;Mississippi
+1750;1963;Bronx;New York
+1751;1963;Milwaukee;Wisconsin
+1752;1962;Auburn;Washington
+1753;1962;Brooklyn;New York
+1754;1959;Brookhaven;New York
+1755;1963;Leverkusen;Germany
+1756;1962;Brooklyn;New York
+1757;1962;Welland;Canada
+1758;1962;Lincoln;Nebraska
+1759;1963;New Haven;Connecticut
+1760;1962;Los Angeles;California
+1761;1964;Tulsa;Oklahoma
+1762;1962;Columbus;Mississippi
+1763;1963;San Mateo;California
+1764;1963;Lansing;Michigan
+1765;1963;Dallas;Texas
+1766;1963;Montreal;Canada
+1767;1963;Atlanta;Georgia
+1768;1965;Harbor City;California
+1769;1962;Chicago;Illinois
+1770;1964;Jersey City;New Jersey
+1771;1963;Phoenix;Arizona
+1772;1963;Memphis;Tennessee
+1773;1964;New York;New York
+1774;1961;Rochester;New York
+1775;1963;Washington;District of Columbia
+1776;1963;Newark;New Jersey
+1777;1961;Minneapolis;Minnesota
+1778;1964;Harrisonburg;Virginia
+1779;1965;Black Mountain;North Carolina
+1780;1963;Washington;District of Columbia
+1781;1964;Quincy;Illinois
+1782;1962;Wichita;Kansas
+1783;1964;Harvey;Illinois
+1784;1962;Butler;Pennsylvania
+1785;1964;Wilmington;North Carolina
+1786;1963;Boulder;Colorado
+1787;1964;Dayton;Ohio
+1788;1965;Marietta;Georgia
+1789;1964;Baltimore;Maryland
+1790;1963;Claremont;California
+1791;1963;Elmhurst;Illinois
+1792;1964;Hamburg;Arkansas
+1793;1964;Birmingham;Alabama
+1794;1944;Clairton;Pennsylvania
+1795;1962;Washington;District of Columbia
+1796;1964;Jamaica;New York
+1797;1964;Cape Coral;Florida
+1798;1964;Missoula;Montana
+1799;1960;Harrisburg;Pennsylvania
+1800;1962;Madrid;Spain
+1801;1964;Liberty;New York
+1802;1963;Camden;New Jersey
+1803;1964;Raleigh;North Carolina
+1804;1962;Paris;France
+1805;1963;Mobile;Alabama
+1806;1963;Danville;Virginia
+1807;1963;Little Rock;Arkansas
+1808;1964;Brantley;Alabama
+1809;1963;Los Angeles;California
+1810;1963;Bronx;New York
+1811;1964;Bartlesville;Oklahoma
+1812;1961;Trenton;New Jersey
+1813;1963;Fullerton;California
+1814;1962;New Brighton;Pennsylvania
+1815;1964;Brooklyn;New York
+1816;1962;Warrensville Heights;Ohio
+1817;1961;Memphis;Tennessee
+1818;1964;LaPorte;Indiana
+1819;1964;Cleveland;Ohio
+1820;1965;Queens;New York
+1821;1964;Jacksonville;Florida
+1822;1964;New York;New York
+1823;1963;Camden;New Jersey
+1824;1964;Memphis;Tennessee
+1825;1964;Roberta;Georgia
+1826;1965;Hickory;North Carolina
+1827;1964;Brooklyn;New York
+1828;1951;New Haven;Connecticut
+1829;1963;Baltimore;Maryland
+1830;1962;Hollywood;California
+1831;1963;Baltimore;Maryland
+1832;1962;Inglewood;California
+1833;1964;Franklin;Indiana
+1834;1964;Houston;Texas
+1835;1965;Rochester;New York
+1836;1966;Memphis;Tennessee
+1837;1965;Philadelphia;Pennsylvania
+1838;1965;Baltimore;Maryland
+1839;1961;Jacksonville;Florida
+1840;1964;Philadelphia;Pennsylvania
+1841;1965;Bakersfield;California
+1842;1965;Rockville Centre;New York
+1843;1950;Harrisburg;Pennsylvania
+1844;1964;Dothan;Alabama
+1845;1965;Gary;Indiana
+1846;1965;Springfield;Illinois
+1847;1964;Gary;Indiana
+1848;1964;Pittsburgh;Pennsylvania
+1849;1965;Augusta;Georgia
+1850;1964;Henderson;North Carolina
+1851;1964;Omaha;Nebraska
+1852;1965;Toledo;Ohio
+1853;1960;Greenville;Mississippi
+1854;1965;Brooklyn;New York
+1855;1949;Washington;District of Columbia
+1856;1965;Cincinnati;Ohio
+1857;1962;Tuskegee;Alabama
+1858;1964;Omaha;Nebraska
+1859;1963;Philadelphia;Pennsylvania
+1860;1965;Baltimore;Maryland
+1861;1964;New Ulm;Minnesota
+1862;1966;Meridian;Mississippi
+1863;1965;Riverside;California
+1864;1964;Chicago;Illinois
+1865;1962;New York;New York
+1866;1964;Dover;Delaware
+1867;1963;Long Beach;California
+1868;1965;Columbus;Ohio
+1869;1964;Chicago;Illinois
+1870;1965;Hamburg;Arkansas
+1871;1964;Port-au-Prince;Haiti
+1872;1964;Riviera Beach;Florida
+1873;1963;Cleveland;Ohio
+1874;1965;Newark;New Jersey
+1875;1965;Queens;New York
+1876;1958;Bremerton;Washington
+1877;1965;Torrance;California
+1878;1963;Camden;New Jersey
+1879;1964;South Boston;Virginia
+1880;1964;Eschwege;Germany
+1881;1964;Delmenhorst;Germany
+1882;1959;Neptune;New Jersey
+1883;1965;San Francisco;California
+1884;1965;Charlotte;North Carolina
+1885;1964;Baltimore;Maryland
+1886;1964;Pineville;Louisiana
+1887;1956;Louisville;Kentucky
+1888;1964;Houston;Texas
+1889;1964;Kohler;Wisconsin
+1890;1964;Seattle;Washington
+1891;1965;Milton;Florida
+1892;1966;Philadelphia;Pennsylvania
+1893;1967;Greenville;South Carolina
+1894;1964;Lansing;Michigan
+1895;1963;Tulsa;Oklahoma
+1896;1965;French Camp;California
+1897;1965;Glen Ridge;New Jersey
+1898;1966;Inglewood;California
+1899;1964;Everett;Washington
+1900;1967;Bowling Green;Kentucky
+1901;1967;New York;New York
+1902;1963;Chesapeake;Virginia
+1903;1963;;
+1904;1966;Mobile;Alabama
+1905;1966;Baton Rouge;Louisiana
+1906;1965;Cleveland Heights;Ohio
+1907;1966;Rosemead;California
+1908;1964;Curtiba;Brazil
+1909;1965;Baltimore;Maryland
+1910;1964;Los Angeles;California
+1911;1965;Los Angeles;California
+1912;1966;West Warwick;Rhode Island
+1913;1965;Detroit;Michigan
+1914;1965;Montgomery;Alabama
+1915;1964;Los Angeles;California
+1916;1965;Canton;Ohio
+1917;1965;Augusta;Georgia
+1918;1967;Millington;Tennessee
+1919;1965;Flint;Michigan
+1920;1964;Long Beach;California
+1921;1966;Chicago;Illinois
+1922;1966;LaRomana;Dominican Republic
+1923;1965;New Orleans;Louisiana
+1924;1966;Detroit;Michigan
+1925;1966;Copaigue;New York
+1926;1965;Beirut;Lebanon
+1927;1966;Collins;Mississippi
+1928;1966;Akron;Ohio
+1929;1966;Pine Bluff;Arkansas
+1930;1966;Inglewood;California
+1931;1963;Niles;Illinois
+1932;1966;Reedley;California
+1933;1966;Wayne;Michigan
+1934;1965;Traverse City;Michigan
+1935;1966;Hattiesburg;Mississippi
+1936;1965;Gainesville;Florida
+1937;1966;Toledo;Ohio
+1938;1966;Atlanta;Georgia
+1939;1966;San Francisco;California
+1940;1964;Muncie;Indiana
+1941;1963;Albonito;Puerto Rico
+1942;1965;Melbourne;Florida
+1943;1965;Freehold;New Jersey
+1944;1964;Kingston;Pennsylvania
+1945;1964;Washington;District of Columbia
+1946;1965;Fort Lauderdale;Florida
+1947;1966;Carolina;Puerto Rico
+1948;1965;Jersey City;New Jersey
+1949;1964;Rochester;New York
+1950;1961;Long Island;New York
+1951;1965;Beirut;Lebanon
+1952;1966;Kinston;North Carolina
+1953;1964;Birmingham;Michigan
+1954;1966;Oakland;California
+1955;1964;Baton Rouge;Louisiana
+1956;1965;Bridgeport;Connecticut
+1957;1966;Eindhoven;Netherlands
+1958;1965;Tulsa;Oklahoma
+1959;1966;Evanston;Illinois
+1960;1940;Jacksonville;Florida
+1961;1965;Brooklyn;Illinois
+1962;1965;Los Angeles;California
+1963;1965;Long Beach;California
+1964;1963;Chicago;Illinois
+1965;1966;New Orleans;Louisiana
+1966;1945;Seattle;Washington
+1967;1964;Spokane;Washington
+1968;1968;Chicago;Illinois
+1969;1967;Birmingham;Alabama
+1970;1967;;
+1971;1967;Boston;Massachusetts
+1972;1964;Aurora;Illinois
+1973;1965;Louisville;Kentucky
+1974;1967;Garland;Texas
+1975;1968;New York;New York
+1976;1965;Atlanta;Georgia
+1977;1967;New Orleans;Louisiana
+1978;1964;Oslo;Norway
+1979;1966;London;United Kingdom
+1980;1966;Falls County;Texas
+1981;1965;Atlanta;Georgia
+1982;1967;Danville;Virginia
+1983;1967;Charlotte;North Carolina
+1984;1968;Prijepolje;Serbia
+1985;1966;Washington;District of Columbia
+1986;1966;Baltimore;Maryland
+1987;1965;Washington;District of Columbia
+1988;1955;Seattle;Washington
+1989;1968;Tucson;Arizona
+1990;1967;Savannah;Georgia
+1991;1963;Detroit;Michigan
+1992;1966;Trenton;New Jersey
+1993;1966;Terre Haute;Indiana
+1994;1967;Fort Walton;Florida
+1995;1966;Chicago;Illinois
+1996;1967;Grand Island;Nebraska
+1997;1967;Springfield;Illinois
+1998;1966;LaGrange;Illinois
+1999;1967;New Orleans;Louisiana
+2000;1966;Brooklyn;New York
+2001;1966;Birmingham;Alabama
+2002;1969;Elkhart;Indiana
+2003;1966;Tuscaloosa;Alabama
+2004;1967;Lawton;Oklahoma
+2005;1967;Lexington;Kentucky
+2006;1966;Carlisle;Pennsylvania
+2007;1966;Washington;District of Columbia
+2008;1967;Belleville;Illinois
+2009;1965;Pensacola;Florida
+2010;1967;Walnut Creek;California
+2011;1966;Flint;Michigan
+2012;1964;Kaunas;Lithuania
+2013;1967;Cherry Valley;Arkansas
+2014;1966;Miami;Florida
+2015;1964;Morristown;New Jersey
+2016;1967;Chicago;Illinois
+2017;1967;Daytona Beach;Florida
+2018;1964;San Diego;California
+2019;1964;Kankakee;Illinois
+2020;1963;Columbus;Georgia
+2021;1967;Washington;District of Columbia
+2022;1967;Bronx;New York
+2023;1967;Meridian;Mississippi
+2024;1966;Pljevlja;Montenegro
+2025;1966;Laurel;Mississippi
+2026;1964;Sibenik;Croatia
+2027;1966;Pullman;Washington
+2028;1966;;
+2029;1967;Jacksonville;Arkansas
+2030;1966;Philadelphia;Pennsylvania
+2031;1960;Oakland;California
+2032;1965;Key West;Florida
+2033;1967;Knoxville;Tennessee
+2034;1966;New Orleans;Louisiana
+2035;1962;Halifax;North Carolina
+2036;1966;Augusta;Georgia
+2037;1963;Terre Haute;Indiana
+2038;1965;Rochester;New York
+2039;1967;Aurora;Illinois
+2040;1966;Los Angeles;California
+2041;1938;;
+2042;1965;Jamaica;
+2043;1964;Omsk;Russia
+2044;1967;Altoona;Pennsylvania
+2045;1967;Shreveport;Louisiana
+2046;1945;Seattle;Washington
+2047;1966;Charlotte;North Carolina
+2048;1968;Cairo;Egypt
+2049;1942;Wilmington;Delaware
+2050;1967;Athens;Alabama
+2051;1968;Kraljevo;Serbia
+2052;1968;Worcester;Massachusetts
+2053;1966;Del Rio;Texas
+2054;1968;St. Louis;Missouri
+2055;1968;Jacksonville;Florida
+2056;1968;San Diego;California
+2057;1967;Des Moines;Iowa
+2058;1968;Detroit;Michigan
+2059;1966;Cincinnati;Ohio
+2060;1968;Los Angeles;California
+2061;1968;Queens Village;New York
+2062;1969;Maui;Hawaii
+2063;1965;Aurora;North Carolina
+2064;1967;Mobile;Alabama
+2065;1968;Covington;Virginia
+2066;1967;Los Angeles;California
+2067;1967;Kinston;North Carolina
+2068;1963;New York;New York
+2069;1963;;
+2070;1966;Hyattsville;Maryland
+2071;1968;Oakland;California
+2072;1968;Newark;New Jersey
+2073;1968;Chicago;Illinois
+2074;1967;Greenwood;Mississippi
+2075;1967;Fort Wayne;Indiana
+2076;1960;Elkhart;Indiana
+2077;1967;Monroe;Louisiana
+2078;1968;Junction City;Kansas
+2079;1968;Los Angeles;California
+2080;1968;Cincinnati;Ohio
+2081;1967;Clarksburg;West Virginia
+2082;1965;Centreville;Alabama
+2083;1967;Bowbells;North Dakota
+2084;1967;Minneapolis;Minnesota
+2085;1966;Philadelphia;Pennsylvania
+2086;1967;Detroit;Michigan
+2087;1967;Baltimore;Maryland
+2088;1968;Chicago;Illinois
+2089;1967;Nassau;Bahamas
+2090;1967;Sussex;Virginia
+2091;1968;Ocala;Florida
+2092;1967;Romulus;Michigan
+2093;1967;San Francisco;California
+2094;1969;Whiteville;North Carolina
+2095;1968;Bronx;New York
+2096;1967;Lancaster;Ohio
+2097;1968;Chicago;Illinois
+2098;1965;Lafayette;Louisiana
+2099;1968;Ithaca;New York
+2100;1968;Oakland;California
+2101;1967;Bloomington;Indiana
+2102;1968;Bossier City;Louisiana
+2103;1966;Mandeville;Jamaica
+2104;1967;Grand Rapids;Michigan
+2105;1968;Brandon;Florida
+2106;1968;Hagerstown;Maryland
+2107;1968;Philadelphia;Pennsylvania
+2108;1968;;
+2109;1968;Louisville;Kentucky
+2110;1966;Brooklyn;New York
+2111;1966;Chicago;Illinois
+2112;1968;Grand Rapids;Michigan
+2113;1964;Drnis;Croatia
+2114;1968;Ritter;South Carolina
+2115;1961;New York;New York
+2116;1968;Hacienda Heights;California
+2117;1968;Los Angeles;California
+2118;1966;Chestertown;Maryland
+2119;1947;Louisville;Kentucky
+2120;1947;;
+2121;1969;Detroit;Michigan
+2122;1970;Queens;New York
+2123;1967;Las Vegas;Nevada
+2124;1968;Pasadena;California
+2125;1969;Gridley;California
+2126;1968;Henderson;Kentucky
+2127;1968;Lafayette;Louisiana
+2128;1970;Portland;Oregon
+2129;1969;Beaufort;South Carolina
+2130;1969;McKees Rocks;Pennsylvania
+2131;1965;Atlanta;Georgia
+2132;1969;Flint;Michigan
+2133;1968;Sumter;South Carolina
+2134;1968;Bronx;New York
+2135;1964;Robbinsdale;Minnesota
+2136;1968;Coral Gables;Florida
+2137;1969;Carrollton;Georgia
+2138;1969;Toccoa;Georgia
+2139;1969;Fresno;California
+2140;1967;Milwaukee;Wisconsin
+2141;1940;Far Rockaway;New York
+2142;1969;Toronto;Canada
+2143;1967;Elizabeth;New Jersey
+2144;1967;Philadelphia;Pennsylvania
+2145;1970;Santa Monica;California
+2146;1966;Trinidad;Trinidad and Tobago
+2147;1969;Washington;District of Columbia
+2148;1967;Winston-Salem;North Carolina
+2149;1965;Wichita Falls;Texas
+2150;1968;Altoona;Pennsylvania
+2151;1969;Lincoln;Nebraska
+2152;1964;Washington;Illinois
+2153;1969;Melbourne;Australia
+2154;1968;Bloomington;Minnesota
+2155;1969;Saginaw;Michigan
+2156;1968;New Haven;Connecticut
+2157;1968;Baltimore;Maryland
+2158;1965;Oklahoma City;Oklahoma
+2159;1968;Somerville;New Jersey
+2160;1966;Kinshasa;Democratic Republic of the Congo
+2161;1969;Menifee;Arkansas
+2162;1969;Carlisle;Pennsylvania
+2163;1969;San Francisco;California
+2164;1969;New Orleans;Louisiana
+2165;1969;Memphis;Tennessee
+2166;1969;Baton Rouge;Louisiana
+2167;1967;Edina;Minnesota
+2168;1970;Hopkins;South Carolina
+2169;1920;Minnesota;
+2170;1958;Rolling Fork;Mississippi
+2171;1969;Highland Park;Michigan
+2172;1968;Philadelphia;Pennsylvania
+2173;1968;Los Angeles;California
+2174;1968;Nansemond County;Virginia
+2175;1967;Santa Cruz;California
+2176;1969;Dayton;Ohio
+2177;1969;Dayton;Ohio
+2178;1968;Los Angeles;California
+2179;1967;Washington;District of Columbia
+2180;1966;Trabajara;Brazil
+2181;1970;Chicago;Illinois
+2182;1969;Rocky Mount;North Carolina
+2183;1969;Oakland;California
+2184;1969;Green Bay;Wisconsin
+2185;1970;Toms River;New Jersey
+2186;1966;Miami;Florida
+2187;1969;Chicago;Illinois
+2188;1970;Eleuthra;Bahamas
+2189;1970;Seattle;Washington
+2190;1969;Benton Harbor;Michigan
+2191;1969;Jackson;Mississippi
+2192;1969;Orange;New Jersey
+2193;1965;Cacak;Serbia
+2194;1967;Brooklyn;New York
+2195;1970;Winston-Salem;North Carolina
+2196;1970;Decatur;Illinois
+2197;1970;;
+2198;1967;Dallas;Texas
+2199;1970;East St. Louis;Illinois
+2200;1969;Salem;Massachusetts
+2201;1970;Pascagoula;Mississippi
+2202;1969;Huntington Station;New York
+2203;1969;Milwaukee;Wisconsin
+2204;1970;Andalusia;Alabama
+2205;1969;Watonga;Kansas
+2206;1970;Dallas;Texas
+2207;1970;Toledo;Ohio
+2208;1968;Culpepper;Virginia
+2209;1970;Morgan City;Louisiana
+2210;1968;Baltimore;Maryland
+2211;1970;Irvine;California
+2212;1969;Angola;New York
+2213;1970;Chicago;Illinois
+2214;1970;Palo Alto;California
+2215;1969;Chicago;Illinois
+2216;1970;Tulsa;Oklahoma
+2217;1970;Fort Worth;Texas
+2218;1971;Inglewood;California
+2219;1969;Richmond;Virginia
+2220;1970;Chesapeake;Virginia
+2221;1971;Los Angeles;California
+2222;1967;Toledo;Ohio
+2223;1972;Newark;New Jersey
+2224;1969;Clovis;New Mexico
+2225;1969;Philadelphia;Pennsylvania
+2226;1969;Kansas City;Missouri
+2227;1968;Shawnee;Oklahoma
+2228;1966;DeQuincy;Louisiana
+2229;1969;New York;New York
+2230;1970;Bronx;New York
+2231;1965;Bridgeport;Connecticut
+2232;1970;San Jose;California
+2233;1964;Stockton;California
+2234;1969;Atlanta;Georgia
+2235;1970;Milwaukee;Wisconsin
+2236;1963;Flint;Michigan
+2237;1970;Emporia;Virginia
+2238;1967;Ventspils;Latvia
+2239;1970;Crawford;Mississippi
+2240;1970;Montgomery;Alabama
+2241;1970;Sunnyside;New York
+2242;1970;Twiggs;Georgia
+2243;1969;Ocala;Florida
+2244;1923;;
+2245;1970;Philadelphia;Pennsylvania
+2246;1969;Jacksonville;Florida
+2247;1971;Lake Wales;Florida
+2248;1969;Monrovia;California
+2249;1972;Landstuhl;Germany
+2250;1972;;
+2251;1971;Baltimore;Maryland
+2252;1971;New Haven;Connecticut
+2253;1946;Memphis;Tennessee
+2254;1969;Baltimore;Maryland
+2255;1971;Evansville;Indiana
+2256;1968;Anniston;Alabama
+2257;1968;Oakland;California
+2258;1955;Monaca;Pennsylvania
+2259;1971;New York;New York
+2260;1970;Long Beach;California
+2261;1970;Peoria;Illinois
+2262;1971;Middletown;Ohio
+2263;1971;Miami;Florida
+2264;1970;Atlanta;Georgia
+2265;1971;Greenwood;Mississippi
+2266;1969;Rockford;Illinois
+2267;1965;Melbourne;Australia
+2268;1967;Dallas;Texas
+2269;1970;Indianapolis;Indiana
+2270;1967;Salt Lake City;Utah
+2271;1968;Havana;Cuba
+2272;1969;Didam;Netherlands
+2273;1971;Memphis;Tennessee
+2274;1970;Los Angeles;California
+2275;1970;Pascagoula;Mississippi
+2276;1970;Riverside;California
+2277;1967;Dallas;Texas
+2278;1971;Louisville;Kentucky
+2279;1970;Utica;Mississippi
+2280;1971;Jersey City;New Jersey
+2281;1970;Tuskegee;Alabama
+2282;1970;Orange;California
+2283;1966;Brooklyn;New York
+2284;1970;Dresden;Tennessee
+2285;1970;Brooklyn;New York
+2286;1968;Chicago;Illinois
+2287;1970;Harpersville;Alabama
+2288;1969;Newton Grove;North Carolina
+2289;1968;Split;Croatia
+2290;1970;Roanoke;Virginia
+2291;1970;Chattanooga;Tennessee
+2292;1969;Merced;California
+2293;1969;Minneapolis;Minnesota
+2294;1972;New York;New York
+2295;1971;Cleveland;Tennessee
+2296;1970;Los Angeles;California
+2297;1969;Stevenson;Washington
+2298;1971;Triteni;Romania
+2299;1971;San Antonio;Texas
+2300;1970;Detroit;Michigan
+2301;1969;Levice;Slovakia
+2302;1967;Split;Croatia
+2303;1971;Oakland;California
+2304;1970;Cleveland;Ohio
+2305;1955;Los Angeles;California
+2306;1971;Durham;North Carolina
+2307;1970;San Bernardino;California
+2308;1971;Winston-Salem;North Carolina
+2309;1970;Libby;Montana
+2310;1970;;
+2311;1970;Omaha;Nebraska
+2312;1973;Detroit;Michigan
+2313;1970;Minneapolis;Minnesota
+2314;1970;San Antonio;Texas
+2315;1971;Hopkinsville;Kentucky
+2316;1971;Evanston;Illinois
+2317;1971;Jersey City;New Jersey
+2318;1972;Bronx;New York
+2319;1968;Gastonia;North Carolina
+2320;1965;Moscow;Russia
+2321;1970;Evanston;Illinois
+2322;1968;Mount Kisco;New York
+2323;1970;Baton Rouge;Louisiana
+2324;1967;Bakersfield;California
+2325;1972;Boston;Massachusetts
+2326;1972;Kano;Nigeria
+2327;1972;Chicago;Illinois
+2328;1972;Detroit;Michigan
+2329;1969;Washington;Iowa
+2330;1972;Columbus;Ohio
+2331;1971;Birmingham;Alabama
+2332;1969;Gary;Indiana
+2333;1972;Dallas;Texas
+2334;1967;Durango;Colorado
+2335;1973;Chicago;Illinois
+2336;1971;Philadelphia;Pennsylvania
+2337;1956;Fort Rucker;Alabama
+2338;1973;San Francisco;California
+2339;1966;Pine Bluff;Arkansas
+2340;1972;Nashville;Tennessee
+2341;1973;Reading;Pennsylvania
+2342;1971;Denver;Colorado
+2343;1972;Racine;Wisconsin
+2344;1972;Philadelphia;Pennsylvania
+2345;1971;Benton Harbor;Michigan
+2346;1971;Sandersville;Georgia
+2347;1970;Bronx;New York
+2348;1971;Indianapolis;Indiana
+2349;1971;Louisville;Kentucky
+2350;1973;Pasadena;California
+2351;1970;Sedalia;Missouri
+2352;1971;Nkwere;Nigeria
+2353;1971;Crenshaw;Alabama
+2354;1972;Queens;New York
+2355;1970;Steubenville;Ohio
+2356;1967;New Orleans;Louisiana
+2357;1972;Queens;New York
+2358;1973;Gary;Indiana
+2359;1971;Detroit;Michigan
+2360;1973;Detroit;Michigan
+2361;1972;Bradenton;Florida
+2362;1970;Buffalo;New York
+2363;1972;Fort Washington;Maryland
+2364;1970;Houston;Texas
+2365;1970;Atlanta;Georgia
+2366;1971;Brunswick;Georgia
+2367;1970;Split;Croatia
+2368;1970;Dallas;Texas
+2369;1969;Washington;District of Columbia
+2370;1969;;
+2371;1971;Murfreesboro;North Carolina
+2372;1970;Thomasville;Georgia
+2373;1972;Elm City;North Carolina
+2374;1971;Fredericksburg;Virginia
+2375;1974;Albany;Georgia
+2376;1973;Macon;Georgia
+2377;1973;Waynesboro;Virginia
+2378;1973;Philadelphia;Pennsylvania
+2379;1970;Boston;Massachusetts
+2380;1971;Oak Park;Illinois
+2381;1971;Hempstead;New York
+2382;1971;Memphis;Tennessee
+2383;1973;Denton;Texas
+2384;1972;Springfield;Massachusetts
+2385;1972;Pascagoula;Mississippi
+2386;1973;Chicago;Illinois
+2387;1970;East Orange;New Jersey
+2388;1973;Charlotte;North Carolina
+2389;1973;Mobile;Alabama
+2390;1974;Ironton;Missouri
+2391;1972;Washington;District of Columbia
+2392;1972;South Bend;Indiana
+2393;1970;St. Thomas;U.S. Virgin Islands
+2394;1971;Richland;Washington
+2395;1970;Belgrade;Serbia
+2396;1970;Sarajevo;Bosnia and Herzegovina
+2397;1973;Detroit;Michigan
+2398;1973;Gardena;California
+2399;1969;Caserta;Italy
+2400;1973;Melrose Park;Illinois
+2401;1972;Baton Rouge;Louisiana
+2402;1976;Mauldin;South Carolina
+2403;1971;West Palm Beach;Florida
+2404;1975;Chicago;Illinois
+2405;1967;Jacksonville;Florida
+2406;1972;Indianapolis;Indiana
+2407;1972;Lincoln;Nebraska
+2408;1970;Morgan City;Louisiana
+2409;1972;Baxley;Georgia
+2410;1941;Tulsa;Oklahoma
+2411;1973;Detroit;Michigan
+2412;1969;Washington;District of Columbia
+2413;1975;Liberal;Kansas
+2414;1970;Tacoma;Washington
+2415;1973;Reading;Pennsylvania
+2416;1971;St. Louis;Missouri
+2417;1972;Tulsa;Oklahoma
+2418;1974;Quitman;Mississippi
+2419;1972;Emmetsburg;Iowa
+2420;1972;Washington;District of Columbia
+2421;1970;Iowa City;Iowa
+2422;1972;Peoria;Illinois
+2423;1972;Los Angeles;California
+2424;1973;Dallas;Texas
+2425;1973;;
+2426;1973;Demopolis;Alabama
+2427;1973;Fort Smith;Arkansas
+2428;1973;Washington;District of Columbia
+2429;1973;Bronx;New York
+2430;1972;Detroit;Michigan
+2431;1972;Atlantic City;New Jersey
+2432;1968;Bassanod'Grappa;Italy
+2433;1964;Kaunas;Lithuania
+2434;1944;Columbus;Mississippi
+2435;1973;Canton;Ohio
+2436;1974;Kinston;North Carolina
+2437;1973;Portland;Oregon
+2438;1973;Wilkes-Barre;Pennsylvania
+2439;1973;Toledo;Ohio
+2440;1972;Dallas;Texas
+2441;1974;Columbus;Ohio
+2442;1971;Valders;Wisconsin
+2443;1952;Nashville;Tennessee
+2444;1974;Philadelphia;Pennsylvania
+2445;1971;Pine Bluff;Arkansas
+2446;1972;Aberdeen;Mississippi
+2447;1972;Newark;New Jersey
+2448;1970;Twiggs;Georgia
+2449;1973;Zlin;Czech Republic
+2450;1976;Marietta;Georgia
+2451;1965;Milton;Florida
+2452;1973;Atlanta;Georgia
+2453;1970;Wilmington;Delaware
+2454;1971;Merced;California
+2455;1968;Adelaide;Australia
+2456;1974;West Memphis;Arkansas
+2457;1978;Philadelphia;Pennsylvania
+2458;1974;Hartford;Connecticut
+2459;1969;El Paso;Texas
+2460;1975;Jackson;Mississippi
+2461;1972;Vero Beach;Florida
+2462;1968;Philadelphia;Pennsylvania
+2463;1974;Covington;Tennessee
+2464;1967;Belgrade;Serbia
+2465;1973;Chicago;Illinois
+2466;1973;Rockford;Illinois
+2467;1974;Lexington;Ohio
+2468;1974;Little Rock;Arkansas
+2469;1958;Detroit;Michigan
+2470;1966;Los Angeles;California
+2471;1973;Trenton;New Jersey
+2472;1972;Baltimore;Maryland
+2473;1969;Bloomington;California
+2474;1973;Saginaw;Michigan
+2475;1973;Memphis;Tennessee
+2476;1974;Jackson;Mississippi
+2477;1972;Canton;Ohio
+2478;1970;Melbourne;Australia
+2479;1974;Mount Vernon;Washington
+2480;1975;Hampton;Virginia
+2481;1974;Dayton;Ohio
+2482;1974;Salt Lake City;Utah
+2483;1973;Chicago;Illinois
+2484;1975;New Orleans;Louisiana
+2485;1973;El Rosario;Mexico
+2486;1971;Silver Spring;Maryland
+2487;1977;Brooklyn;New York
+2488;1974;Evansville;Indiana
+2489;1973;Maywood;Illinois
+2490;1974;Charlotte;North Carolina
+2491;1974;Tallinn;Estonia
+2492;1974;Johannesburg;South Africa
+2493;1972;Bronx;New York
+2494;1969;Osecola;Arkansas
+2495;1973;Washington;District of Columbia
+2496;1978;Columbia;South Carolina
+2497;1972;San Bernardino;California
+2498;1975;Kiev;Ukraine
+2499;1974;Columbus;Georgia
+2500;1971;Durham;North Carolina
+2501;1974;Philadelphia;Pennsylvania
+2502;1970;Wheeling;West Virginia
+2503;1974;Denton;Texas
+2504;1971;Jackson;Michigan
+2505;1972;Paterson;New Jersey
+2506;1972;New York;New York
+2507;1969;Highland Park;Michigan
+2508;1970;Grand Rapids;Michigan
+2509;1973;Riverside;California
+2510;1973;Opelika;Alabama
+2511;1968;Postville;Iowa
+2512;1955;Long Island City;New York
+2513;1976;Columbus;Ohio
+2514;1974;White Hall;Alabama
+2515;1974;Rochester;New York
+2516;1969;Chicago;Illinois
+2517;1973;Washington;District of Columbia
+2518;1945;Newark;New Jersey
+2519;1974;Maisons Alfort;France
+2520;1974;Louisville;Kentucky
+2521;1975;Melbourne;Australia
+2522;1973;Oakland;California
+2523;1976;Dallas;Texas
+2524;1976;Denver;Colorado
+2525;1973;San Bernardino;California
+2526;1974;Baltimore;Maryland
+2527;1972;Syracuse;New York
+2528;1974;Atlanta;Georgia
+2529;1976;Hartford;Connecticut
+2530;1973;Jacksonville;Florida
+2531;1924;Miles City;Montana
+2532;1975;Kalamazoo;Michigan
+2533;1975;Los Angeles;California
+2534;1974;Augusta;Georgia
+2535;1975;Columbus;Ohio
+2536;1976;St. Croix;U.S. Virgin Islands
+2537;1970;Los Angeles;California
+2538;1976;Philadelphia;Pennsylvania
+2539;1975;Canouan;Saint Vincent and the Grenadines
+2540;1970;Columbus;Ohio
+2541;1975;Memphis;Tennessee
+2542;1974;Chicago;Illinois
+2543;1975;Riverside;California
+2544;1974;Peoria;Illinois
+2545;1968;Charlotte;North Carolina
+2546;1974;Shreveport;Louisiana
+2547;1976;Carbondale;Illinois
+2548;1975;Kaunas;Lithuania
+2549;1973;East Spencer;North Carolina
+2550;1932;Los Angeles;California
+2551;1975;Nashville;Tennessee
+2552;1975;Livingston;New Jersey
+2553;1973;Winston-Salem;North Carolina
+2554;1974;Philadelphia;Pennsylvania
+2555;1969;Longview;Texas
+2556;1979;Bartow;Florida
+2557;1976;Nashville;Tennessee
+2558;1977;Kranj;Slovenia
+2559;1973;Dawson;Minnesota
+2560;1975;Bellflower;California
+2561;1972;Dallas;Texas
+2562;1975;Naperville;Illinois
+2563;1975;Murray;Utah
+2564;1972;Omaha;Nebraska
+2565;1973;Jersey City;New Jersey
+2566;1975;Tulsa;Oklahoma
+2567;1976;New York;New York
+2568;1973;Brooklyn;New York
+2569;1975;Cucq-Trepied-Stella-Plage;France
+2570;1971;Syracuse;New York
+2571;1974;Chattanooga;Tennessee
+2572;1976;Detroit;Michigan
+2573;1948;Canton;Georgia
+2574;1977;Paterson;New Jersey
+2575;1977;;
+2576;1975;Los Angeles;California
+2577;1974;Pearl;Mississippi
+2578;1974;Russellville;Kentucky
+2579;1973;Louisville;Kentucky
+2580;1948;;
+2581;1975;Collinston;Louisiana
+2582;1969;Columbia;South Carolina
+2583;1973;Lagos;Nigeria
+2584;1975;Los Angeles;California
+2585;1969;Dayton;Ohio
+2586;1978;Compton;California
+2587;1978;Cherry Hill;New Jersey
+2588;1976;Cleveland;Ohio
+2589;1935;;
+2590;1975;Fordyce;Arkansas
+2591;1977;Daytona Beach;Florida
+2592;1975;Danville;Illinois
+2593;1971;Hungary;
+2594;1979;Las Vegas;Nevada
+2595;1975;Greenville;South Carolina
+2596;1977;San Antonio;Texas
+2597;1974;Baton Rouge;Louisiana
+2598;1975;Los Angeles;California
+2599;1976;Las Vegas;Nevada
+2600;1974;Pittsburgh;Pennsylvania
+2601;1976;Cincinnati;Ohio
+2602;1980;Orange;New Jersey
+2603;1980;;
+2604;1979;St. Louis;Missouri
+2605;1962;Los Angeles;California
+2606;1975;Cottage Grove;Minnesota
+2607;1975;Tampa;Florida
+2608;1976;Shreveport;Louisiana
+2609;1976;Galveston;Texas
+2610;1974;Atlanta;Georgia
+2611;1928;Charleston;West Virginia
+2612;1976;Hampton;Iowa
+2613;1963;Philadelphia;Pennsylvania
+2614;1974;Santo Domingo;Dominican Republic
+2615;1977;Mexico;Missouri
+2616;1975;Auckland;New Zealand
+2617;1975;Chicago;Illinois
+2618;1977;Oakland;California
+2619;1975;Jersey City;New Jersey
+2620;1976;Fort Wayne;Indiana
+2621;1975;Philadelphia;Pennsylvania
+2622;1977;Chicago;Illinois
+2623;1975;Orangeburg;South Carolina
+2624;1973;Dakar;Senegal
+2625;1976;Cairo;Illinois
+2626;1976;Ljubljana;Slovenia
+2627;1978;Wurzburg;Germany
+2628;1975;Lagos;Nigeria
+2629;1975;Riverside;California
+2630;1975;Cleveland;Ohio
+2631;1977;Oakland;California
+2632;1975;Lebanon;Ohio
+2633;1974;Marietta;Georgia
+2634;1975;Stockholm;Sweden
+2635;1974;Paris;Kentucky
+2636;1976;Temple;Texas
+2637;1975;Nashville;Tennessee
+2638;1976;Georgia;
+2639;1977;Slavoska Pozega ;Croatia
+2640;1980;Split;Croatia
+2641;1977;Detroit;Michigan
+2642;1976;Muncie;Indiana
+2643;1975;New Britain;Connecticut
+2644;1976;St. Louis;Missouri
+2645;1968;Ritter;South Carolina
+2646;1975;Bronx;New York
+2647;1974;Slayton;Minnesota
+2648;1978;Wichita;Kansas
+2649;1976;New York;New York
+2650;1974;Orlando;Florida
+2651;1979;Augusta;Georgia
+2652;1981;Picayune;Mississippi
+2653;1976;Reynoldsburg;Ohio
+2654;1972;Santa Clara;Cuba
+2655;1977;Sharps;Virginia
+2656;1975;Fort Madison;Iowa
+2657;1973;Newark;New Jersey
+2658;1973;;
+2659;1979;Cortlandt Manor;New York
+2660;1976;Hopkinsville;Kentucky
+2661;1977;Milwaukee;Wisconsin
+2662;1975;Milwaukee;Wisconsin
+2663;1977;Houston;Texas
+2664;1976;Thomson;Georgia
+2665;1979;Los Angeles;California
+2666;1975;Detroit;Michigan
+2667;1975;Port Harcourt;Nigeria
+2668;1975;New Knoxville;Ohio
+2669;1977;San Antonio;Texas
+2670;1977;Silver Spring;Maryland
+2671;1977;Minneapolis;Minnesota
+2672;1978;Marietta;Georgia
+2673;1974;Wichita;Kansas
+2674;1978;Coatesville;Pennsylvania
+2675;1975;Fall River;Massachusetts
+2676;1976;Kansas City;Missouri
+2677;1962;Chicago;Illinois
+2678;1976;Detroit;Michigan
+2679;1976;Miami;Florida
+2680;1976;Orangeburg;South Carolina
+2681;1954;San Pedro;California
+2682;1979;Cocoa;Florida
+2683;1977;Philadelphia;Pennsylvania
+2684;1976;Palo Alto;California
+2685;1977;Little Rock;Arkansas
+2686;1976;Winnipeg;Canada
+2687;1979;Melrose Park;Illinois
+2688;1978;Waukegan;Illinois
+2689;1971;Benton Harbor;Michigan
+2690;1975;Georgetown;Guyana
+2691;1979;Jamaica;New York
+2692;1976;Louisville;Kentucky
+2693;1978;Los Angeles;California
+2694;1977;Cleveland;Ohio
+2695;1977;Charleston;South Carolina
+2696;1976;Herceg Novi;Montenegro
+2697;1976;Lawton;Oklahoma
+2698;1976;Flint;Michigan
+2699;1977;Denver;Colorado
+2700;1949;Pittsburgh;Pennsylvania
+2701;1977;Seattle;Washington
+2702;1973;Brooklyn;New York
+2703;1977;Atlanta;Georgia
+2704;1976;Novi Pazar;Serbia
+2705;1976;Boston;Massachusetts
+2706;1974;New Orleans;Louisiana
+2707;1974;;
+2708;1976;Santa Cruz;California
+2709;1973;Waynesboro;Virginia
+2710;1980;Croatia;
+2711;1978;Queens;New York
+2712;1976;St. Croix;U.S. Virgin Islands
+2713;1975;Dobbs Ferry;New York
+2714;1977;Tolono;Illinois
+2715;1977;Flint;Michigan
+2716;1973;Jacksonville;Florida
+2717;1975;Philadelphia;Pennsylvania
+2718;1980;Seattle;Washington
+2719;1980;Ft. Lauderdale;Florida
+2720;1979;Minneapolis;Minnesota
+2721;1978;Detroit;Michigan
+2722;1973;Colon;Panama
+2723;1978;Aurora;Colorado
+2724;1976;Philadelphia;Pennsylvania
+2725;1976;;
+2726;1975;Floral Park;New York
+2727;1978;Los Angeles;California
+2728;1980;Shellman;Georgia
+2729;1978;Berkeley;California
+2730;1965;Brooklyn;New York
+2731;1970;Tuskegee;Alabama
+2732;1954;San Pedro;California
+2733;1973;Roseau;Dominica
+2734;1977;Chicago;Illinois
+2735;1972;Rochester;New York
+2736;1976;Walnut Creek;California
+2737;1978;Toronto;Canada
+2738;1977;Saginaw;Michigan
+2739;1977;Waxahachie;Texas
+2740;1977;Fountain Valley;California
+2741;1978;Chicago;Illinois
+2742;1979;Karapyshi;Ukraine
+2743;1979;Milwaukee;Wisconsin
+2744;1981;Belleville;Illinois
+2745;1980;Mitchell;South Dakota
+2746;1978;Paris;France
+2747;1976;Helsinki;Finland
+2748;1973;Dakar;Senegal
+2749;1975;South Bend;Indiana
+2750;1976;Meoqui;Mexico
+2751;1975;Southfield;Michigan
+2752;1981;Ibadan;Nigeria
+2753;1977;Harrisburg;Pennsylvania
+2754;1974;Los Gatos;California
+2755;1977;Flint;Michigan
+2756;1978;Abbeville;Alabama
+2757;1978;Albany;Georgia
+2758;1979;Monticello;Minnesota
+2759;1979;Columbus;Ohio
+2760;1980;Chicago;Illinois
+2761;1976;Saginaw;Michigan
+2762;1955;Los Angeles;California
+2763;1978;Bougouni;Mali
+2764;1977;Bahia Blanca;Argentina
+2765;1976;Lubbock;Texas
+2766;1977;Atlanta;Georgia
+2767;1965;Rochester;New York
+2768;1981;Fresno;California
+2769;1979;Shreveport;Louisiana
+2770;1973;Belgrade;Serbia
+2771;1979;Rustavi;Georgia
+2772;1979;Istanbul;Turkey
+2773;1973;Daytona Beach;Florida
+2774;1977;Tulsa;Oklahoma
+2775;1973;Buenos Aries;Argentina
+2776;1977;Beijing;China
+2777;1978;Willingboro;New Jersey
+2778;1978;Long Beach;California
+2779;1982;Los Angeles;California
+2780;1980;San Francisco;California
+2781;1979;Fajardo;Puerto Rico
+2782;1975;Beijing;China
+2783;1978;Birmingham;Michigan
+2784;1979;Flint;Michigan
+2785;1978;Edda;Cameroon
+2786;1979;Worcester;Massachusetts
+2787;1980;East Point;Georgia
+2788;1979;Postojna;Slovenia
+2789;1923;Eureka;California
+2790;1979;Bronx;New York
+2791;1981;Zachary;Louisiana
+2792;1982;Charleston;South Carolina
+2793;1979;Iowa;Louisiana
+2794;1982;Hanford;California
+2795;1978;Queens;New York
+2796;1973;Jacksonville;Florida
+2797;1973;Jacksonville;Florida
+2798;1979;Pitman;New Jersey
+2799;1982;Harvey;Illinois
+2800;1981;Port-Au-Prince;Haiti
+2801;1982;Dakar;Senegal
+2802;1975;Bijelo Polje;Montenegro
+2803;1978;Wichita;Kansas
+2804;1975;Sacramento;California
+2805;1971;Greenwood;Mississippi
+2806;1981;Atlanta;Georgia
+2807;1981;Athens;Greece
+2808;1976;Los Angeles;California
+2809;1980;Barcelona;Spain
+2810;1982;Philadelphia;Pennsylvania
+2811;1978;Jackson;Mississippi
+2812;1979;Clarksville;Tennessee
+2813;1979;Loblesville;Tennessee
+2814;1979;New York;New York
+2815;1981;Chicago;Illinois
+2816;1975;Copaigue;New York
+2817;1980;Los Angeles;California
+2818;1947;Carthage;Mississippi
+2819;1978;Luxembourg;Luxembourg
+2820;1981;Izhevsk;Russia
+2821;1979;Frederick;Maryland
+2822;1980;Morristown;New Jersey
+2823;1978;Quincy;Illinois
+2824;1982;Bruges;Belgium
+2825;1980;Trebinje Srpska-Bih;Bosnia and Herzegovina
+2826;1981;Marion;Indiana
+2827;1972;Apatin;Serbia
+2828;1981;Saginaw;Michigan
+2829;1979;Brooklyn;New York
+2830;1979;Dallas;Texas
+2831;1981;New York;New York
+2832;1978;Long Beach;California
+2833;1976;Greensboro;North Carolina
+2834;1980;Chicago;Illinois
+2835;1980;Chicago;Illinois
+2836;1978;Hartford;Connecticut
+2837;1978;Harlem;New York
+2838;1978;Brooklyn;New York
+2839;1976;Caracas;Venezuela
+2840;1979;Los Angeles;California
+2841;1979;Bosanska Gradiska;Bosnia and Herzegovina
+2842;1982;Sylacauga;Alabama
+2843;1979;Kansas City;Kansas
+2844;1959;Tuskegee;Alabama
+2845;1978;St. Louis;Missouri
+2846;1980;Paisley;United Kingdom
+2847;1975;Corsicana;Texas
+2848;1977;Long Beach;California
+2849;1979;Silver Spring;Maryland
+2850;1981;Aschaffenburg;Germany
+2851;1981;;
+2852;1968;Jacksonville;Florida
+2853;1973;Dublin;Ireland
+2854;1980;Racine;Wisconsin
+2855;1979;Philadelphia;Pennsylvania
+2856;1978;Portland;Oregon
+2857;1978;Baltimore;Maryland
+2858;1978;Harvey;Illinois
+2859;1980;Pensacola;Florida
+2860;1978;Den Haag;Netherlands
+2861;1977;Bahia Blanca;Argentina
+2862;1977;Zagreb;Croatia
+2863;1981;Oakland;California
+2864;1980;Lewisburg;Tennessee
+2865;1980;Bernardston;Massachusetts
+2866;1980;Wagram;North Carolina
+2867;1973;Gardena;California
+2868;1982;Sao Carlos;Brazil
+2869;1975;Battle Creek;Michigan
+2870;1979;Tulsa;Oklahoma
+2871;1981;Glendora;California
+2872;1978;Belgrade;Serbia
+2873;1980;Fresno;California
+2874;1981;Bloomington;Indiana
+2875;1979;Malvern;Arkansas
+2876;1979;Harvey;Illinois
+2877;1981;Compton;California
+2878;1980;Washington;District of Columbia
+2879;1980;Shanghai;China
+2880;1979;Philadelphia;Pennsylvania
+2881;1980;Slovenj Gradec;Slovenia
+2882;1979;Yalova;Turkey
+2883;1979;Akron;Ohio
+2884;1979;Chicago;Illinois
+2885;1981;New York;New York
+2886;1980;Compton;California
+2887;1978;Belgrade;Serbia
+2888;1976;Trikala;Greece
+2889;1971;Cholet;France
+2890;1977;Inkster;Michigan
+2891;1980;Kansas City;Missouri
+2892;1979;Philadelphia;Pennsylvania
+2893;1983;Inglewood;California
+2894;1976;Pula;Croatia
+2895;1977;Meriden;Kansas
+2896;1980;Beckley;West Virginia
+2897;1982;Lake Wales;Florida
+2898;1979;Warsaw;Poland
+2899;1983;Tbilisi;Georgia
+2900;1922;;
+2901;1980;Pardubice;Czech Republic
+2902;1982;Raleigh;North Carolina
+2903;1979;Milwaukee;Wisconsin
+2904;1956;Los Angeles;California
+2905;1968;Ritter;South Carolina
+2906;1981;Memphis;Tennessee
+2907;1981;Cleveland;Tennessee
+2908;1984;New York;New York
+2909;1981;Las Vegas;Nevada
+2910;1982;San Paulo;Brazil
+2911;1952;Providence;Rhode Island
+2912;1980;Compton;California
+2913;1980;Minneapolis;Minnesota
+2914;1980;Hollywood;Florida
+2915;1980;Alexandria;Virginia
+2916;1980;Buffalo;New York
+2917;1984;Dallas;Texas
+2918;1976;Fresno;California
+2919;1981;Zrenjanin;Serbia
+2920;1980;Pittsburgh;Pennsylvania
+2921;1976;Jackson;Mississippi
+2922;1980;Lincoln;Illinois
+2923;1982;Brooklyn;New York
+2924;1981;Jasper;Florida
+2925;1955;Detroit;Michigan
+2926;1982;Cormeille-en-Parisis;France
+2927;1978;Denver;Colorado
+2928;1981;Biloxi;Mississippi
+2929;1984;London;United Kingdom
+2930;1976;Rotterdam;Netherlands
+2931;1977;Lansing;Michigan
+2932;1977;;
+2933;1977;Battle Ground;Washington
+2934;1981;East St. Louis;Missouri
+2935;1981;Madison;Wisconsin
+2936;1980;Orlandia;Brazil
+2937;1981;Detroit;Michigan
+2938;1973;Grand Rapids;Michigan
+2939;1978;Provo;Utah
+2940;1980;Miami;Florida
+2941;1981;Atlanta;Georgia
+2942;1981;Sioux City;Iowa
+2943;1980;Winston-Salem;North Carolina
+2944;1980;Cincinnati;Ohio
+2945;1984;Akron;Ohio
+2946;1979;Salt Lake City;Utah
+2947;1980;Chicago;Illinois
+2948;1976;Galveston;Texas
+2949;1949;;
+2950;1982;Wyoming;Michigan
+2951;1981;Long Beach;California
+2952;1981;Lakewood;California
+2953;1985;Lodz;Poland
+2954;1980;Vic;Spain
+2955;1979;Canton;Ohio
+2956;1985;Novi Sad;Serbia
+2957;1984;Starkville;Mississippi
+2958;1984;Tbilisi;Georgia
+2959;1984;;
+2960;1981;Upland;California
+2961;1980;Auckland;New Zealand
+2962;1984;Nederland;Texas
+2963;1982;Les Abymes;Guadeloupe
+2964;1982;Mostar;Bosnia and Herzegovina
+2965;1981;Coeur d'Alene;Idaho
+2966;1980;Bartow;Florida
+2967;1978;Marijampole;Lithuania
+2968;1982;Oxon Hill;Maryland
+2969;1977;Portland;Oregon
+2970;1983;Belgrade;Serbia
+2971;1982;Chicago;Illinois
+2972;1980;San Diego;California
+2973;1980;Teaneck;New Jersey
+2974;1971;Fredericksburg;Virginia
+2975;1982;Chicago;Illinois
+2976;1980;Curitiba;Brazil
+2977;1985;Miami;Florida
+2978;1979;Granite City;Illinois
+2979;1982;Bronx;New York
+2980;1986;Riga;Latvia
+2981;1979;Daytona;Florida
+2982;1980;Concord;New Hampshire
+2983;1980;Memphis;Tennessee
+2984;1985;McComb;Mississippi
+2985;1976;Grand Rapids;Michigan
+2986;1980;Albany;New York
+2987;1983;Harbor City;California
+2988;1980;Orange City;Iowa
+2989;1982;Cincinnati;Ohio
+2990;1982;Santa Fe;Argentina
+2991;1985;Wow;South Sudan
+2992;1982;Mamou;Louisiana
+2993;1979;Baltimore;Maryland
+2994;1981;Warren;Ohio
+2995;1982;Dallas;Texas
+2996;1981;San Pedro de Macoris;Dominican Republic
+2997;1981;Overland Park;Kansas
+2998;1983;London;United Kingdom
+2999;1983;Milwaukee;Wisconsin
+3000;1982;Nashville;Tennessee
+3001;1985;Atlanta;Georgia
+3002;1985;Minneapolis;Minnesota
+3003;1984;Springfield;Illinois
+3004;1984;;
+3005;1981;Harlem;New York
+3006;1985;Monticello;Mississippi
+3007;1974;Elizabeth;New Jersey
+3008;1980;Split;Croatia
+3009;1982;Kiev;Ukraine
+3010;1975;Livingston;New Jersey
+3011;1983;Kraljevo;Serbia
+3012;1974;Istanbul;Turkey
+3013;1985;Peoria;Illinois
+3014;1977;Saginaw;Michigan
+3015;1982;Chester;Pennsylvania
+3016;1979;Santa Fe;Argentina
+3017;1982;Houston;Texas
+3018;1985;Novosibirsk;Russia
+3019;1985;;
+3020;1982;Jackson;Mississippi
+3021;1982;Tripp;South Dakota
+3022;1980;Washington;District of Columbia
+3023;1981;Dallas;Texas
+3024;1985;Seoul;Republic of Korea
+3025;1920;Minnesota;
+3026;1920;;
+3027;1944;Columbus;Mississippi
+3028;1983;Los Angeles;California
+3029;1981;Dakar;Senegal
+3030;1977;Chicago;Illinois
+3031;1985;Bakersfield;California
+3032;1980;Yokohama;Japan
+3033;1985;Brooklyn;New York
+3034;1975;Shreveport;Louisiana
+3035;1973;Brooklyn;New York
+3036;1982;Celje;Slovenia
+3037;1982;Santa Teresa;Brazil
+3038;1981;Laguna;California
+3039;1984;Maribor;Slovenia
+3040;1983;Washington;District of Columbia
+3041;1960;Pocatello;Idaho
+3042;1985;Los Angeles;California
+3043;1983;Compton;California
+3044;1982;Minneapolis;Minnesota
+3045;1986;Kaunas;Lithuania
+3046;1981;Clarksdale;Mississippi
+3047;1983;New York;New York
+3048;1985;Baton Rouge;Louisiana
+3049;1983;Montevideo;Uruguay
+3050;1986;Syracuse;New York
+3051;1984;Melbourne;Australia
+3052;1979;Seattle;Washington
+3053;1987;Plainsboro;New Jersey
+3054;1983;Chicago;Illinois
+3055;1981;Villanueva de la Serena;Spain
+3056;1982;Fond du Lac;Wisconsin
+3057;1983;Buffalo;New York
+3058;1985;Jackson;Mississippi
+3059;1983;Milton;Florida
+3060;1981;Los Angeles;California
+3061;1984;Marion;South Carolina
+3062;1982;Columbus;Georgia
+3063;1972;Baton Rouge;Louisiana
+3064;1983;White Plains;New York
+3065;1982;Wow;South Sudan
+3066;1981;Santo Domingo;Dominican Republic
+3067;1982;Waterbury;Connecticut
+3068;1982;Wilmington;Delaware
+3069;1982;Wilmington;Delaware
+3070;1983;New Orleans;Louisiana
+3071;1982;Columbus;Ohio
+3072;1986;Houston;Texas
+3073;1982;Gainesville;Florida
+3074;1979;Louisville;Kentucky
+3075;1983;San Leandro;California
+3076;1982;Chicago;Illinois
+3077;1983;New York;New York
+3078;1979;Chicago;Illinois
+3079;1983;Fort Washington;Maryland
+3080;1976;Kaunas;Lithuania
+3081;1987;Los Angeles;California
+3082;1952;Houston;Texas
+3083;1985;Kaunas;Lithuania
+3084;1987;Moscow;Russia
+3085;1942;Modesto;California
+3086;1980;Klaipeda;Lithuania
+3087;1982;Georgetown;Guyana
+3088;1983;Chicago;Illinois
+3089;1984;Chicago;Illinois
+3090;1984;Asheville;North Carolina
+3091;1983;Portland;Oregon
+3092;1983;;
+3093;1983;Saratov;Russia
+3094;1977;Dakar;Senegal
+3095;1975;Las Varillas;Argentina
+3096;1980;Indianapolis;Indiana
+3097;1985;Winston-Salem;North Carolina
+3098;1986;Paris;France
+3099;1983;Charleston;South Carolina
+3100;1983;Friendswood;Texas
+3101;1983;Raleigh;North Carolina
+3102;1955;Chattanooga;Tennessee
+3103;1982;Houston;Texas
+3104;1984;Seattle;Washington
+3105;1981;Liberal;Kansas
+3106;1978;Racine;Wisconsin
+3107;1982;Hope Forest;Australia
+3108;1983;Leavenworth;Kansas
+3109;1981;Chicago;Illinois
+3110;1982;Portland;Oregon
+3111;1985;Brooklyn;New York
+3112;1982;Washington;District of Columbia
+3113;1983;Los Angeles;California
+3114;1983;Le Robert;Martinique
+3115;1984;Queens;New York
+3116;1985;Homer;Louisiana
+3117;1982;Holland;Pennsylvania
+3118;1982;Philadelphia;Pennsylvania
+3119;1952;Baltimore;Maryland
+3120;1982;Benton Harbor;Michigan
+3121;1984;Parkersburg;West Virginia
+3122;1969;Ocala;Florida
+3123;1982;Jackson;Mississippi
+3124;1984;West Covina;California
+3125;1962;Hollywood;California
+3126;1981;Monroe;Louisiana
+3127;1984;Inglewood;California
+3128;1984;Detroit;Michigan
+3129;1985;Dallas;Texas
+3130;1982;Ventura;California
+3131;1984;Peekskill;New York
+3132;1984;Midlothian;Illinois
+3133;1983;London;United Kingdom
+3134;1984;Staten Island;New York
+3135;1984;;
+3136;1985;Rome;Italy
+3137;1983;Boston;Massachusetts
+3138;1984;Mount Airy;Maryland
+3139;1983;Los Angeles;California
+3140;1955;Fort Smith;Arkansas
+3141;1981;Chicago;Illinois
+3142;1985;Maywood;Illinois
+3143;1984;Memphis;Tennessee
+3144;1984;Philadelphia;Pennsylvania
+3145;1982;Portland;Oregon
+3146;1984;Detroit;Michigan
+3147;1982;Paris;France
+3148;1984;Brooklyn;New York
+3149;1986;Los Angeles;California
+3150;1981;Flint;Michigan
+3151;1983;Newark;New Jersey
+3152;1977;Madrid;Spain
+3153;1986;Brooklyn;New York
+3154;1983;Pointe Noire;Guadeloupe
+3155;1986;Houston;Texas
+3156;1981;Hania;Greece
+3157;1979;Philadelphia;Pennsylvania
+3158;1984;Chicago;Illinois
+3159;1979;Venado Tuerto;Argentina
+3160;1984;Cincinnati;Ohio
+3161;1984;Pasadena;California
+3162;1984;Tuzla;Bosnia and Herzegovina
+3163;1987;Eskisehir;Turkey
+3164;1983;Albany;Georgia
+3165;1984;Eustis;Florida
+3166;1984;Tampa;Florida
+3167;1983;Mobile;Alabama
+3168;1986;Philadelphia;Pennsylvania
+3169;1982;Chicago;Illinois
+3170;1985;Sarajevo;Bosnia and Herzegovina
+3171;1984;Capitol Heights;Maryland
+3172;1982;Missouri City;Texas
+3173;1983;London;United Kingdom
+3174;1985;Monroe;Louisiana
+3175;1986;Houston;Texas
+3176;1984;Glendive;Montana
+3177;1984;Durham;North Carolina
+3178;1983;Libertyville;Illinois
+3179;1986;Oskaloosa;Iowa
+3180;1983;Colton;California
+3181;1984;Berkeley;California
+3182;1983;Joliet;Illinois
+3183;1983;New Orleans;Louisiana
+3184;1984;Bronx;New York
+3185;1984;;
+3186;1984;Allentown;Pennsylvania
+3187;1986;Tenerife;Spain
+3188;1986;Louisville;Kentucky
+3189;1984;Seattle;Washington
+3190;1984;Vevey;Switzerland
+3191;1984;;
+3192;1986;Shallotte;North Carolina
+3193;1983;Ljubljana;Slovenia
+3194;1983;Inglewood;California
+3195;1969;Highland Park;Michigan
+3196;1982;Larissa;Greece
+3197;1986;Baton Rouge;Louisiana
+3198;1986;;
+3199;1986;;
+3200;1976;St. Louis;Missouri
+3201;1984;Chicago;Illinois
+3202;1982;Jackson;Mississippi
+3203;1975;Bronx;New York
+3204;1975;Bronx;New York
+3205;1985;Los Angeles;California
+3206;1984;St. Louis;Missouri
+3207;1981;Salt Lake City;Utah
+3208;1985;Dalton;Georgia
+3209;1982;Montreal;Canada
+3210;1986;Bologna;Italy
+3211;1986;Portland;Tennessee
+3212;1985;Seattle;Washington
+3213;1987;Benton Harbor;Michigan
+3214;1987;Fayetteville;Arkansas
+3215;1958;Los Angeles;California
+3216;1987;Atlanta;Georgia
+3217;1984;Atlanta;Georgia
+3218;1986;Baton Rouge;Louisiana
+3219;1985;San Juan;Puerto Rico
+3220;1985;San Diego;California
+3221;1988;Washington;District of Columbia
+3222;1985;Denver;Colorado
+3223;1986;Dnepropetrovsk;Ukraine
+3224;1985;Portland;Oregon
+3225;1984;Lodz;Poland
+3226;1984;Tarzana;California
+3227;1941;;
+3228;1986;Fort Lauderdale;Florida
+3229;1983;Hillsboro;Texas
+3230;1988;Seattle;Washington
+3231;1986;Puerto Plata;Dominican Republic
+3232;1987;He Shan;China
+3233;1983;Great Falls;Montana
+3234;1983;Milwaukee;Wisconsin
+3235;1983;Fort Worth;Texas
+3236;1982;Port-Gentil;Gabon
+3237;1985;Dallas;Texas
+3238;1986;Rouen;France
+3239;1985;San Diego;California
+3240;1987;Indianapolis;Indiana
+3241;1980;Goodwater;Alabama
+3242;1980;;
+3243;1984;Boston;Massachusetts
+3244;1985;New York;New York
+3245;1985;Donetsk;Ukraine
+3246;1985;Osijek;Croatia
+3247;1981;Teaneck;New Jersey
+3248;1986;Los Angeles;California
+3249;1984;Lakeland;Florida
+3250;1984;Senegal;
+3251;1980;Buenos Aires;Argentina
+3252;1986;Myrtle Beach;South Carolina
+3253;1983;Roslindale;Massachusetts
+3254;1977;Atlanta;Georgia
+3255;1977;;
+3256;1986;Seattle;Washington
+3257;1983;Perry;Georgia
+3258;1943;Dayton;Ohio
+3259;1985;Winter Park;Florida
+3260;1984;Paterson;New Jersey
+3261;1984;;
+3262;1960;Petersburg;Virginia
+3263;1986;Houston;Texas
+3264;1962;Hollywood;California
+3265;1987;Chicago;Illinois
+3266;1985;Los Angeles;California
+3267;1988;New Orleans;Louisiana
+3268;1988;Saint-Etienne;France
+3269;1986;Kaohsiung;Taiwan
+3270;1988;Sacramento;California
+3271;1988;Dallas;Texas
+3272;1988;;
+3273;1988;Lisieux;France
+3274;1988;Phoenix;Arizona
+3275;1989;Frederick;Maryland
+3276;1923;Versailles;Ohio
+3277;1986;Anchorage;Alaska
+3278;1986;Detroit;Michigan
+3279;1983;Baltimore;Maryland
+3280;1987;Detroit;Michigan
+3281;1986;Ljubljana;Slovenia
+3282;1985;Palma de Mallorca;Spain
+3283;1988;Sant'Angelo Lodigiano;Italy
+3284;1985;Barcelona;Spain
+3285;1985;;
+3286;1988;Indianapolis;Indiana
+3287;1988;Munich;Germany
+3288;1985;Ahvaz;Islamic Republic of Iran
+3289;1987;Detroit;Michigan
+3290;1986;Queens;New York
+3291;1986;;
+3292;1986;Indianapolis;Indiana
+3293;1985;Chanute;Kansas
+3294;1986;Winston-Salem;North Carolina
+3295;1985;Oklahoma City;Oklahoma
+3296;1986;Sydney;Australia
+3297;1983;Lithonia;Georgia
+3298;1984;Jackson;Mississippi
+3299;1988;Houston;Texas
+3300;1989;Canton;Ohio
+3301;1985;Philadelphia;Pennsylvania
+3302;1985;Indianapolis;Indiana
+3303;1988;North Hollywood;California
+3304;1988;North Hollywood;California
+3305;1988;Santa Monica;California
+3306;1984;Crockett;Texas
+3307;1984;;
+3308;1984;;
+3309;1988;Flint;Michigan
+3310;1985;Charlotte;North Carolina
+3311;1985;Oakland;California
+3312;1988;Buffalo;New York
+3313;1989;Worzbach;Germany
+3314;1988;Chicago;Illinois
+3315;1985;Kansas City;Missouri
+3316;1986;Huntsville;Alabama
+3317;1985;Philadelphia;Pennsylvania
+3318;1987;St. Petersburg;Florida
+3319;1986;Chicago;Illinois
+3320;1946;New York;New York
+3321;1985;Springfield;Missouri
+3322;1984;Split;Croatia
+3323;1984;;
+3324;1986;Janesville;Wisconsin
+3325;1986;West Memphis;Arkansas
+3326;1988;Long Beach;California
+3327;1988;;
+3328;1968;Ritter;South Carolina
+3329;1985;Hebei;China
+3330;1943;Minneapolis;Minnesota
+3331;1945;Buffalo;New York
+3332;1945;;
+3333;1988;Pointe-a-Pitre;Guadeloupe
+3334;1989;Pittsburgh;Pennsylvania
+3335;1987;Snohomish;Washington
+3336;1968;Jacksonville;Florida
+3337;1988;Encinitas;California
+3338;1986;Birmingham;Alabama
+3339;1988;Holon;Israel
+3340;1988;Plainfield;New Jersey
+3341;1987;Rancho Cucamonga;California
+3342;1987;Clinton;Maryland
+3343;1986;Pleasant Grove;North Carolina
+3344;1988;Akron;Ohio
+3345;1988;Irvine;California
+3346;1989;Compton;California
+3347;1986;Jonesboro;Georgia
+3348;1987;Wynnewood;Pennsylvania
+3349;1989;Chester;Pennsylvania
+3350;1989;Niagara Falls;New York
+3351;1986;Jamaica;New York
+3352;1987;Riviera Beach;Florida
+3353;1985;Brooklyn;New York
+3354;1985;Dallas;Texas
+3355;1957;Lynwood;California
+3356;1986;Oklahoma City;Oklahoma
+3357;1985;Poplar Bluff;Missouri
+3358;1989;Los Angeles;California
+3359;1987;Atlanta;Georgia
+3360;1990;Chatsworth;California
+3361;1984;Memphis;Tennessee
+3362;1984;Gary;Indiana
+3363;1989;Brazzaville;Republic of the Congo
+3364;1986;Alamogordo;New Mexico
+3365;1985;Chicago;Illinois
+3366;1989;Compton;California
+3367;1987;Kinna;Sweden
+3368;1987;Cheyenne;Wyoming
+3369;1984;Baton Rouge;Louisiana
+3370;1985;Milwaukee;Wisconsin
+3371;1987;Clinton;Maryland
+3372;1959;Sarasota;Florida
+3373;1987;Raeford;North Carolina
+3374;1987;Norcross;Georgia
+3375;1985;Monroe;Louisiana
+3376;1989;Canal Winchester;Ohio
+3377;1989;;
+3378;1988;Baltimore;Maryland
+3379;1960;Blytheville;Arkansas
+3380;1988;Indianapolis;Indiana
+3381;1986;Baton Rouge;Louisiana
+3382;1987;Dar es Salaam;United Republic of Tanzania
+3383;1987;Baton Rouge;Louisiana
+3384;1987;Seattle;Washington
+3385;1985;Washington;District of Columbia
+3386;1986;Brookline;Massachusetts
+3387;1988;Kaduna;Nigeria
+3388;1988;Burnsville;Minnesota
+3389;1990;Atlanta;Georgia
+3390;1989;El Dorado;Arkansas
+3391;1986;Bursa;Turkey
+3392;1989;Cincinnati;Ohio
+3393;1989;Birmingham;Alabama
+3394;1987;Newberry;South Carolina
+3395;1987;Los Angeles;California
+3396;1990;Tacoma;Washington
+3397;1988;Fanwood;New Jersey
+3398;1987;Chicago;Illinois
+3399;1986;Baltimore;Maryland
+3400;1990;Mobile;Alabama
+3401;1986;Detroit;Michigan
+3402;1989;Washington;District of Columbia
+3403;1984;Pahokee;Florida
+3404;1989;Queens;New York
+3405;1986;Istanbul;Turkey
+3406;1987;Crossett;Arkansas
+3407;1962;Kingston;Jamaica
+3408;1989;Kinshasa;Democratic Republic of the Congo
+3409;1991;Atlanta;Georgia
+3410;1988;Long Beach;California
+3411;1985;Colon;Panama
+3412;1990;Palmdale;California
+3413;1989;Oklahoma City;Oklahoma
+3414;1988;Decatur;Illinois
+3415;1989;Detroit;Michigan
+3416;1990;Indianapolis;Indiana
+3417;1986;Buffalo;New York
+3418;1991;Gent;Belgium
+3419;1987;Hobbs;New Mexico
+3420;1983;Los Angeles;California
+3421;1920;Gonvick;Minnesota
+3422;1949;Corpus Christi;Texas
+3423;1987;Corsicana;Texas
+3424;1975;Nashville;Tennessee
+3425;1988;College Park;Georgia
+3426;1988;Palo Alto;California
+3427;1990;New Orleans;Louisiana
+3428;1986;St. Petersburg;Russia
+3429;1987;Dakar;Senegal
+3430;1984;Baltimore;Maryland
+3431;1983;Mesa;Arizona
+3432;1989;Washington;District of Columbia
+3433;1986;Bijelo Polje;Montenegro
+3434;1988;Rosenberg;Texas
+3435;1988;Fresno;California
+3436;1986;Syracuse;New York
+3437;1989;Trelawny;Jamaica
+3438;1988;Fort Pierce;Florida
+3439;1989;Cayenne;French Guiana
+3440;1984;Philadelphia;Pennsylvania
+3441;1986;Augusta;Georgia
+3442;1988;Charlotte;North Carolina
+3443;1985;Joinville;Brazil
+3444;1990;Brooklyn;New York
+3445;1988;Loudeac;France
+3446;1988;Chicago;Illinois
+3447;1987;Edmond;Oklahoma
+3448;1988;Houston;Texas
+3449;1987;Caracas;Venezuela
+3450;1990;Raleigh;North Carolina
+3451;1989;Dallas;Texas
+3452;1989;Gastonia;North Carolina
+3453;1989;Morrisville;Pennsylvania
+3454;1985;Tepic;Mexico
+3455;1954;New Castle;Indiana
+3456;1992;Lubumbashi;Democratic Republic of the Congo
+3457;1989;Long Branch;New Jersey
+3458;1991;Grandview;Missouri
+3459;1989;Houston;Texas
+3460;1984;Memphis;Tennessee
+3461;1988;Dayton;Ohio
+3462;1984;San Antonio;Texas
+3463;1985;Carbondale;Illinois
+3464;1987;Rockville;Maryland
+3465;1989;Newark;New Jersey
+3466;1987;Lockwood;New York
+3467;1988;San Antonio;Texas
+3468;1989;Glens Falls;New York
+3469;1986;Birmingham;Alabama
+3470;1988;Gainesville;Georgia
+3471;1948;Lexington;Kentucky
+3472;1989;Richmond;Virginia
+3473;1989;St. Charles;Missouri
+3474;1987;Dallas;Texas
+3475;1967;Monroe;Louisiana
+3476;1989;Danville;California
+3477;1987;Las Vegas;Nevada
+3478;1990;Los Angeles;California
+3479;1988;Linwood;New Jersey
+3480;1992;Melbourne;Australia
+3481;1990;Pordenone;Italy
+3482;1989;Brooklyn;New York
+3483;1983;New Orleans;Louisiana
+3484;1984;San Antonio;Texas
+3485;1987;Cheyenne;Wyoming
+3486;1986;Kingston;Jamaica
+3487;1991;Toronto;Canada
+3488;1992;Zurich;Switzerland
+3489;1992;;
+3490;1975;Livingston;New Jersey
+3491;1990;Riverside;California
+3492;1991;Los Angeles;California
+3493;1990;Atlanta;Georgia
+3494;1989;Long Lake;Minnesota
+3495;1988;Chicago;Illinois
+3496;1990;Lexington;Kentucky
+3497;1986;Portsmouth;Virginia
+3498;1986;;
+3499;1991;Los Angeles;California
+3500;1925;;
+3501;1925;;
+3502;1990;Oklahoma City;Oklahoma
+3503;1986;Chicago;Illinois
+3504;1988;Casselberry;Florida
+3505;1986;Lauderdale Lakes;Florida
+3506;1990;Barcelona;Spain
+3507;1991;Baltimore;Maryland
+3508;1990;Oak Park;Illinois
+3509;1988;San Antonio;Texas
+3510;1989;Canton;Georgia
+3511;1988;Shreveport;Louisiana
+3512;1987;Wauwatosa;Wisconsin
+3513;1988;Louisville;Kentucky
+3514;1985;Randolph;Wisconsin
+3515;1988;Alexandria;Virginia
+3516;1961;Chicago;Illinois
+3517;1988;Brooklyn;New York
+3518;1988;Columbia;Missouri
+3519;1991;Toronto;Canada
+3520;1990;Los Angeles;California
+3521;1955;Nassau;Bahamas
+3522;1991;Toronto;Canada
+3523;1991;San Diego;California
+3524;1986;Brooklyn;New York
+3525;1990;Ostrava;Czech Republic
+3526;1990;Morges;Switzerland
+3527;1964;Roberta;Georgia
+3528;1984;Parkersburg;West Virginia
+3529;1989;Memphis;Tennessee
+3530;1951;New Haven;Connecticut
+3531;1988;Trotwood;Ohio
+3532;1990;Tyler;Texas
+3533;1986;Greenbrae;California
+3534;1945;;
+3535;1991;Baltimore;Maryland
+3536;1986;Gisborne;New Zealand
+3537;1989;Kelford;North Carolina
+3538;1993;St. Louis;Missouri
+3539;1988;Chicago;Illinois
+3540;1988;Valencia;Spain
+3541;1984;Orange;New Jersey
+3542;1990;Villa Rica;Georgia
+3543;1991;Oakland;California
+3544;1968;Oakland;California
+3545;1968;;
+3546;1993;Mount Vernon;New York
+3547;1988;Baltimore;Maryland
+3548;1989;Benin City;Nigeria
+3549;1992;Saint-Maurice;France
+3550;1987;Farnham;United Kingdom
+3551;1947;;
+3552;1990;Saginaw;Michigan
+3553;1987;Poplar Bluff;Missouri
+3554;1993;Queens;New York
+3555;1990;Greensboro;North Carolina
+3556;1989;Mission Hills;California
+3557;1985;Savannah;Georgia
+3558;1991;Nashville;Tennessee
+3559;1989;Monterey;California
+3560;1970;Morgan City;Louisiana
+3561;1990;Stone Mountain;Georgia
+3562;1989;Mount Vernon;New York
+3563;1991;Winnsboro;Louisiana
+3564;1992;Portland;Oregon
+3565;1988;Montreal;Canada
+3566;1993;Philadelphia;Pennsylvania
+3567;1987;Odessa;Ukraine
+3568;1991;Queens;New York
+3569;1992;Henrico Valley;Virginia
+3570;1992;Woodbridge;Virginia
+3571;1990;Oakland;California
+3572;1990;Queens;New York
+3573;1991;Dumfries;Virginia
+3574;1990;Juiz de Forz;Brazil
+3575;1991;Charleston;South Carolina
+3576;1990;Maysville;Kentucky
+3577;1992;Chicago;Illinois
+3578;1990;Kaunas;Lithuania
+3579;1990;Queens;New York
+3580;1990;Atlanta;Georgia
+3581;1989;Mississauga;Canada
+3582;1990;Flushing;New York
+3583;1988;Wuppertal;Germany
+3584;1988;Fort Wayne;Indiana
+3585;1977;Rio Tercero;Argentina
+3586;1992;Santa Monica;California
+3587;1985;Toledo;Ohio
+3588;1991;Washington;District of Columbia
+3589;1991;Portland;Oregon
+3590;1989;Baton Rouge;Louisiana
+3591;1988;Chesapeake;Virginia
+3592;1991;Tbilisi;Georgia
+3593;1988;Belgorod;Russia
+3594;1990;Baltimore;Maryland
+3595;1988;Medford;Oregon
+3596;1992;Columbus;Ohio
+3597;1960;Blytheville;Arkansas
+3598;1990;Hoboken;New Jersey
+3599;1993;Indianapolis;Indiana
+3600;1985;Mostar;Bosnia and Herzegovina
+3601;1992;Utena;Lithuania
+3602;1988;Fairfax;Virginia
+3603;1991;Philadelphia;Pennsylvania
+3604;1991;Philadelphia;Pennsylvania
+3605;1993;Seattle;Washington
+3606;1987;Ames;Iowa
+3607;1990;Visalia;California
+3608;1993;Rotorua;New Zealand
+3609;1994;Athens;Greece
+3610;1982;Skopje;FYR Macedonia
+3611;1990;Arlington;Texas
+3612;1993;Toronto;Canada
+3613;1992;Milwaukee;Wisconsin
+3614;1990;Roswell;Georgia
+3615;1991;Baltimore;Maryland
+3616;1992;Columbus;Ohio
+3617;1989;Milwaukee;Wisconsin
+3618;1989;Casselberry;Florida
+3619;1993;Thomaston;Georgia
+3620;1991;Biloxi;Mississippi
+3621;1991;Hamilton;Massachusetts
+3622;1986;Philadelphia;Pennsylvania
+3623;1991;Memphis;Tennessee
+3624;1990;Bellwood;Illinois
+3625;1992;Los Angeles;California
+3626;1990;Charlotte;North Carolina
+3627;1991;Roanoke;Virginia
+3628;1987;Montebelluna;Italy
+3629;1991;Philadelphia;Pennsylvania
+3630;1989;Lancaster;California
+3631;1990;Maryborough;Australia
+3632;1990;Kebemer;Senegal
+3633;1987;Los Angeles;California
+3634;1988;Porto Alegre;Brazil
+3635;1990;Las Vegas;Arizona
+3636;1991;Moreno Valley;California
+3637;1992;Saint-Quentin;France
+3638;1994;Little Rock;Arkansas
+3639;1988;Chihuahua;Mexico
+3640;1990;Newport Beach;California
+3641;1989;Speyer;Germany
+3642;1991;Los Angeles;California
+3643;1989;Hopkinsville;Kentucky
+3644;1989;Valparaiso;Indiana
+3645;1993;St. Petersburg;Russia
+3646;1991;Carmel;New York
+3647;1990;Doboj;Bosnia and Herzegovina
+3648;1992;Cincinnati;Ohio
+3649;1992;Providence;Rhode Island
+3650;1993;Antratsit;Ukraine
+3651;1991;Madison;Wisconsin
+3652;1991;;
+3653;1993;St. Louis;Missouri
+3654;1988;Petah Tikva;Israel
+3655;1966;Toledo;Ohio
+3656;1992;Los Angeles;California
+3657;1990;Lyon;France
+3658;1989;Houston;Texas
+3659;1991;St. Louis Park;Minnesota
+3660;1991;Nova Varos;Serbia
+3661;1990;San Jose;California
+3662;1992;Silver Spring;Maryland
+3663;1991;Toronto;Canada
+3664;1987;Lanham;Maryland
+3665;1990;Fort Wayne;Indiana
+3666;1993;St. Louis;Missouri
+3667;1991;Dallas;Texas
+3668;1988;Belgrade;Serbia
+3669;1955;Chattanooga;Tennessee
+3670;1993;Braunschweig;Germany
+3671;1990;Seattle;Washington
+3672;1991;Riverside;California
+3673;1990;Queens;New York
+3674;1990;;
+3675;1993;Memphis;Tennessee
+3676;1991;Pasadena;California
+3677;1990;Cerritos;California
+3678;1959;Tuskegee;Alabama
+3679;1990;San Diego;California
+3680;1991;St. Cloud;Minnesota
+3681;1992;Washington;Indiana
+3682;1994;Atlanta;Georgia
+3683;1991;Konak;Turkey
+3684;1993;New York;New York
+3685;1990;Brisbane;Australia
+3686;1991;Warrenton;Virginia
+3687;1992;Ontario;Canada
+3688;1991;Memphis;Tennessee
+3689;1992;Belgrade;Serbia
+3690;1992;Oakland;California
+3691;1974;West Memphis;Arkansas
+3692;1995;Osasco;Brazil
+3693;1995;;
+3694;1991;Oakland;California
+3695;1988;Compton;California
+3696;1992;Tampa;Florida
+3697;1991;Evanston;Illinois
+3698;1992;Tucson;Arizona
+3699;1991;Fairfax;Virginia
+3700;1993;Los Angeles;California
+3701;1989;Ljubljana;Slovenia
+3702;1991;Middletown;New York
+3703;1990;Ventura;California
+3704;1994;Brampton;Canada
+3705;1995;Melbourne;Australia
+3706;1990;Houston;Texas
+3707;1991;Baton Rouge;Louisiana
+3708;1995;San Jose;California
+3709;1990;San Jose;California
+3710;1994;Portland;Oregon
+3711;1991;Inglewood;California
+3712;1990;Montgomery;Alabama
+3713;1990;;
+3714;1994;Fishers;Indiana
+3715;1991;Chelan;Washington
+3716;1992;Meridian;Mississippi
+3717;1987;Happy Valley;Australia
+3718;1990;Tacoma;Washington
+3719;1993;Costa Mesa;California
+3720;1992;Tempe;Arizona
+3721;1992;Grand Forks;North Dakota
+3722;1990;Yonkers;New York
+3723;1991;Los Alamos;New Mexico
+3724;1991;Mulhouse;France
+3725;1995;Renton;Washington
+3726;1989;Sterling Heights;Michigan
+3727;1992;Southfield;Michigan
+3728;1992;;
+3729;1992;;
+3730;1992;Grand Forks;North Dakota
+3731;1992;Chesterton;Indiana
+3732;1987;Chicago;Illinois
+3733;1987;Grambling;Louisiana
+3734;1991;Podgorica;Montenegro
+3735;1991;Houston;Texas
+3736;1991;Roxbury;Massachusetts
+3737;1994;Malden;Massachusetts
+3738;1992;Sao Goncalo;Brazil
+3739;1994;Tuzla;Bosnia and Herzegovina
+3740;1993;Cleveland;Mississippi
+3741;1990;Trikala;Greece
+3742;1995;Chicago;Illinois
+3743;1991;Dayton;Ohio
+3744;1994;Gretna;Louisiana
+3745;1991;Toronto;Canada
+3746;1994;Dallas;Texas
+3747;1986;Zagreb;Croatia
+3748;1983;Inglewood;California
+3749;1994;Flower Mound;Texas
+3750;1991;New York;New York
+3751;1993;Mississauga;Canada
+3752;1991;Spokane;Washington
+3753;1994;Memphis;Tennessee
+3754;1995;Haverhill;Massachusetts
+3755;1995;;
+3756;1990;Long Beach;California
+3757;1990;Long Beach;California
+3758;1991;Paw Paw;Michigan
+3759;1995;Toronto;Canada
+3760;1995;;
+3761;1995;Flint;Michigan
+3762;1995;Chicago;Illinois
+3763;1993;Montross;Virginia
+3764;1992;Athens;Greece
+3765;1992;Detroit;Michigan
+3766;1988;Belgrade;Serbia
+3767;1996;Grand Rapids;Michigan
+3768;1981;Chicago;Illinois
+3769;1993;Spearville;Kansas
+3770;1991;Irvington;New Jersey
+3771;1992;Antioch;Tennessee
+3772;1993;Arlington;Massachusetts
+3773;1993;Gary;Indiana
+3774;1992;Los Angeles;California
+3775;1994;Sheboygan;Wisconsin
+3776;1991;Split;Croatia
+3777;1991;Tampa;Florida
+3778;1992;Pouso Alegre;Brazil
+3779;1994;Portland;Oregon
+3780;1994;Tarboro;North Carolina
+3781;1994;San Antonio;Texas
+3782;1995;Dubrovnik;Croatia
+3783;1993;Bethlehem;Pennsylvania
+3784;1995;Chester;Pennsylvania
+3785;1993;Lockport;Illinois
+3786;1983;Sao Paulo;Brazil
+3787;1991;Webster;Texas
+3788;1991;;
+3789;1995;Cayenne;French Guiana
+3790;1944;Clairton;Pennsylvania
+3791;1995;Sombor;Serbia
+3792;1996;Burnsville;Minnesota
+3793;1993;Winfield;Illinois
+3794;1985;Tomsk;Russia
+3795;1996;Milwaukee;Wisconsin
+3796;1995;Saskatoon;Canada
+3797;1988;Zajecar;Serbia
+3798;1994;Baton Rouge;Louisiana
+3799;1994;;
+3800;1995;Bronx;New York
+3801;1991;Savannah;Georgia
+3802;1986;Jendouba;Tunisia
+3803;1994;Dallas;Texas
+3804;1993;Santo Domingo;Dominican Republic
+3805;1996;Kinshasa;Democratic Republic of the Congo
+3806;1996;;
+3807;1992;Belo Horizonte;Brazil
+3808;1992;;
+3809;1995;Chicago;Illinois
+3810;1995;New Orleans;Louisiana
+3811;1991;Lancaster;Pennsylvania
+3812;1994;Memphis;Tennessee
+3813;1989;Bergisch Gladbach;Germany
+3814;1995;Little Rock;Arkansas
+3815;1995;Liepaja;Latvia
+3816;1993;San Diego;California
+3817;1942;Hico;Louisiana
+3818;1993;Edmond;Oklahoma
+3819;1994;Youngstown;Ohio
+3820;1994;;
+3821;1924;Birmingham;Alabama
+3822;1987;Los Angeles;California
+3823;1992;Maio;Cape Verde
+3824;1992;Mulhouse;France
+3825;1995;Edison;New Jersey
+3826;1996;Bedford;Texas
+3827;1996;Minneapolis;Minnesota
+3828;1992;Chesapeake;Virginia
+3829;1948;;
+3830;1996;Houston;Texas
+3831;1995;Long Beach;California
+3832;1992;Los Angeles;California
+3833;1992;Houston;Texas
+3834;1993;Palma de Mallorca;Spain
+3835;1993;Hays;Kansas
+3836;1996;Belle Mead;New Jersey
+3837;1996;Atlanta;Georgia
+3838;1994;Charlotte;North Carolina
+3839;1997;Capljina;Bosnia and Herzegovina
+3840;1995;Ghana;
+3841;1992;Valmiera;Latvia
+3842;1994;Kiev;Ukraine
+3843;1992;Atlanta;Georgia
+3844;1992;Oakland;California
+3845;1993;Santa Fe;Argentina
+3846;1997;Sacramento;California
+3847;1992;Cincinnati;Ohio
+3848;1993;Washington;District of Columbia
+3849;1996;Muskegon;Michigan
+3850;1989;Baltimore;Maryland
+3851;1996;Kayes;Mali
+3852;1994;New London;Connecticut
+3853;1997;Rice Lake;Wisconsin
+3854;1994;Yaounde;Cameroon
+3855;1995;Detroit;Michigan
+3856;1993;Indianapolis;Indiana
+3857;1993;Portsmouth;Virginia
+3858;1993;Lansing;Michigan
+3859;1993;Buenos Aires;Argentina
+3860;1992;Hartford;Connecticut
+3861;1994;Miami;Florida
+3862;1987;West Covina;California
+3863;1993;Washington;District of Columbia
+3864;1993;;
+3865;1994;San Antonio;Texas
+3866;1995;Madrid;Spain
+3867;1994;Madrid;Spain
+3868;1993;Freeport;Bahamas
+3869;1993;Houston;Texas
+3870;1997;Kinston;North Carolina
+3871;1994;South Bend;Indiana
+3872;1991;Las Vegas;Nevada
+3873;1979;Salt Lake City;Utah
+3874;1976;Galveston;Texas
+3875;1990;Stone Mountain;Georgia
+3876;1989;Vilnius;Lithuania
+3877;1996;Port-Au-Prince;Haiti
+3878;1990;Buenos Aires;Argentina
+3879;1994;Norwood;Massachusetts
+3880;1994;Columbus;Ohio
+3881;1993;Morgan City;Louisiana
+3882;1995;Cannes;France
+3883;1997;South Sudan;
+3884;1995;St. Louis;Missouri
+3885;1992;Houston;Texas
+3886;1991;Landover;Maryland
+3887;1996;Seattle;Washington
+3888;1997;Kitchener;Canada
+3889;1992;Sindia;Senegal
+3890;1993;Lawrence;Massachusetts
+3891;1993;Los Angeles;California
+3892;1993;Baltimore;Maryland
+3893;1996;Baltimore;Maryland
+3894;1997;Amarousio;Greece
+3895;1968;Oakland;California
+3896;1990;Fort Wayne;Indiana
+3897;1995;Vienna;Austria
+3898;1993;Savannah;Georgia
+3899;1994;Savannah;Georgia
+3900;1993;Rock Island;Illinois
+3901;1996;Trenton;New Jersey
+3902;1996;Portland;Oregon
+3903;1994;Sibenik;Croatia
+3904;1991;Prague;Czech Republic
+3905;1994;Roxbury;Massachusetts
+3906;1994;Douala;Cameroon
+3907;1997;Milwaukee;Wisconsin
+3908;1997;;
+3909;1994;Hayward;California
+3910;1994;Monroe;New York
+3911;1996;Detroit;Michigan
+3912;1993;Cedar Rapids;Iowa
+3913;1993;Lansing;Michigan
+3914;1994;Rockford;Illinois
+3915;1994;;
+3916;1992;Clearwater;Florida
+3917;1995;Brooklyn;New York
+3918;1969;Columbia;South Carolina
+3919;1992;Portland;Oregon
+3920;1996;Hendersonville;Tennessee
+3921;1994;Heidelberg;Germany
+3922;1997;Mostar;Bosnia and Herzegovina
